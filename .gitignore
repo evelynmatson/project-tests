@@ -6,6 +6,7 @@ actual/
 *.class
 *.bak
 *.swp
+*.log
 .metadata
 
 .DS_Store
