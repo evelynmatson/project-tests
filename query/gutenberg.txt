@@ -1,6 +1,0 @@
-abandon
-provide
-zone
-x y z
-gutenberg
-nowhere
