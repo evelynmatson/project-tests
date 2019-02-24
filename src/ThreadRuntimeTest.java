@@ -61,7 +61,7 @@ public class ThreadRuntimeTest {
 	 */
 	@RepeatedTest(5)
 	public void testSearchConsistency() {
-		String filename = "results-text.json";
+		String filename = "results-partial-text.json";
 		Path actual = TestUtilities.ACTUAL_PATH.resolve(filename);
 		Path expected = TestUtilities.EXPECTED_PATH.resolve("results-partial").resolve(filename);
 
