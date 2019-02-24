@@ -19,7 +19,7 @@ public class IndexOutputTest {
 	 *
 	 * @param testCase the test case to use
 	 */
-	public void test(IndexTestCases testCase) {
+	public static void test(IndexTestCases testCase) {
 		String prefix = "index-text";
 		String filename = testCase.label + ".json";
 
