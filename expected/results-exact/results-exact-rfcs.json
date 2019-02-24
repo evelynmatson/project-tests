@@ -1,0 +1,3346 @@
+{
+	"a": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 995,
+			"score": 0.03453542
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 286,
+			"score": 0.02922841
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 222,
+			"score": 0.02370022
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 615,
+			"score": 0.02271468
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 272,
+			"score": 0.02104449
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1002,
+			"score": 0.03477838
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 286,
+			"score": 0.02922841
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 225,
+			"score": 0.02402050
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 629,
+			"score": 0.02323176
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 275,
+			"score": 0.02127660
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1009,
+			"score": 0.03502135
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 287,
+			"score": 0.02933061
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 227,
+			"score": 0.02423401
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 639,
+			"score": 0.02360111
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 282,
+			"score": 0.02181818
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1016,
+			"score": 0.03526431
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 298,
+			"score": 0.03045478
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 230,
+			"score": 0.02455429
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 645,
+			"score": 0.02382271
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 290,
+			"score": 0.02243714
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1020,
+			"score": 0.03540314
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 299,
+			"score": 0.03055697
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 231,
+			"score": 0.02466104
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 649,
+			"score": 0.02397045
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 295,
+			"score": 0.02282398
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1023,
+			"score": 0.03550727
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 300,
+			"score": 0.03065917
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 232,
+			"score": 0.02476780
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 653,
+			"score": 0.02411819
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 295,
+			"score": 0.02282398
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1025,
+			"score": 0.03557669
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 323,
+			"score": 0.03300971
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 232,
+			"score": 0.02476780
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 654,
+			"score": 0.02415512
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 296,
+			"score": 0.02290135
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1031,
+			"score": 0.03578494
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 324,
+			"score": 0.03311191
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 234,
+			"score": 0.02498132
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 660,
+			"score": 0.02437673
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 299,
+			"score": 0.02313346
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 66,
+			"score": 0.02044610
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1034,
+			"score": 0.03588907
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 325,
+			"score": 0.03321410
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 234,
+			"score": 0.02498132
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 665,
+			"score": 0.02456140
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 300,
+			"score": 0.02321083
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 67,
+			"score": 0.02075589
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1054,
+			"score": 0.03658325
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 331,
+			"score": 0.03382729
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 244,
+			"score": 0.02604890
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 667,
+			"score": 0.02463527
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 315,
+			"score": 0.02437137
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 67,
+			"score": 0.02075589
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1214,
+			"score": 0.04213668
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 408,
+			"score": 0.04169647
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 318,
+			"score": 0.03394897
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 401,
+			"score": 0.03102515
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 838,
+			"score": 0.03095106
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 71,
+			"score": 0.02199504
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 40,
+			"score": 0.00427031
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 47,
+			"score": 0.00363636
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 55,
+			"score": 0.00203139
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 10,
+			"score": 0.00034709
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"aa ae ai ao au": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"aa ee ii oo uu": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 78,
+			"score": 0.02416357
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 301,
+			"score": 0.02328820
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 169,
+			"score": 0.01727133
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 456,
+			"score": 0.01684211
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 449,
+			"score": 0.01558433
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 141,
+			"score": 0.01505285
+		}
+	],
+	"b": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 14,
+			"score": 0.00051708
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 3,
+			"score": 0.00032027
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 63,
+			"score": 0.01951673
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 162,
+			"score": 0.01729476
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 389,
+			"score": 0.01436750
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 126,
+			"score": 0.01287685
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 289,
+			"score": 0.01003089
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 92,
+			"score": 0.00711799
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 63,
+			"score": 0.01951673
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 162,
+			"score": 0.01729476
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 390,
+			"score": 0.01440443
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 126,
+			"score": 0.01287685
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 289,
+			"score": 0.01003089
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 92,
+			"score": 0.00711799
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 240,
+			"score": 0.00833015
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 25,
+			"score": 0.00774473
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 69,
+			"score": 0.00705161
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 66,
+			"score": 0.00704601
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 188,
+			"score": 0.00694367
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 77,
+			"score": 0.00595745
+		}
+	],
+	"c": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 7,
+			"score": 0.00054159
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 10,
+			"score": 0.00036934
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"c d": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 12,
+			"score": 0.00122637
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 15,
+			"score": 0.00116054
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 16,
+			"score": 0.00059095
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 5,
+			"score": 0.00053379
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 14,
+			"score": 0.00048593
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 20,
+			"score": 0.00154739
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"ca ce ci co cu": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 20,
+			"score": 0.00154739
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 9,
+			"score": 0.00031238
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		}
+	],
+	"d": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 11,
+			"score": 0.00112417
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 8,
+			"score": 0.00061896
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 3,
+			"score": 0.00032027
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		}
+	],
+	"d e f": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 13,
+			"score": 0.00132856
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 13,
+			"score": 0.00100580
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 5,
+			"score": 0.00053379
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 14,
+			"score": 0.00051708
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 14,
+			"score": 0.00048593
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 17,
+			"score": 0.00062789
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 2,
+			"score": 0.00006942
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 7,
+			"score": 0.00216853
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 57,
+			"score": 0.00210526
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 15,
+			"score": 0.00160137
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 16,
+			"score": 0.00123791
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 30,
+			"score": 0.00104127
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 8,
+			"score": 0.00081758
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 7,
+			"score": 0.00216853
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 15,
+			"score": 0.00160137
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 43,
+			"score": 0.00158818
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 20,
+			"score": 0.00154739
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 28,
+			"score": 0.00097185
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 6,
+			"score": 0.00061318
+		}
+	],
+	"e": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 4,
+			"score": 0.00013884
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"e f": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 8,
+			"score": 0.00029548
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"e f g h": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 26,
+			"score": 0.00265713
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 9,
+			"score": 0.00069632
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 15,
+			"score": 0.00055402
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 15,
+			"score": 0.00052063
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 4,
+			"score": 0.00042703
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 55,
+			"score": 0.00190899
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 23,
+			"score": 0.00177950
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 16,
+			"score": 0.00163516
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 7,
+			"score": 0.00074730
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		}
+	],
+	"ea ee ei eo eu": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 46,
+			"score": 0.00355899
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 32,
+			"score": 0.00341625
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 12,
+			"score": 0.00044321
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		}
+	],
+	"f": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 3,
+			"score": 0.00010413
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 32,
+			"score": 0.00327031
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 20,
+			"score": 0.00154739
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 13,
+			"score": 0.00138785
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 34,
+			"score": 0.00118010
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 18,
+			"score": 0.00066482
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"fa fe fi fo fu": [
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 8,
+			"score": 0.00029548
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"g": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 23,
+			"score": 0.00235054
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 2,
+			"score": 0.00006942
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"g h": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 24,
+			"score": 0.00245273
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 4,
+			"score": 0.00030948
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 8,
+			"score": 0.00027767
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 7,
+			"score": 0.00025854
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		}
+	],
+	"g h i": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 25,
+			"score": 0.00255493
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 12,
+			"score": 0.00044321
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 11,
+			"score": 0.00038180
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 33,
+			"score": 0.00337251
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 23,
+			"score": 0.00177950
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 15,
+			"score": 0.00160137
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 37,
+			"score": 0.00128423
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 17,
+			"score": 0.00062789
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"h": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 6,
+			"score": 0.00020825
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"h i j k l m n": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 27,
+			"score": 0.00288246
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 35,
+			"score": 0.00270793
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 54,
+			"score": 0.00187428
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 41,
+			"score": 0.00151431
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 14,
+			"score": 0.00143076
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"i": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 3,
+			"score": 0.00010413
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"i j": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 16,
+			"score": 0.00123791
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 10,
+			"score": 0.00106758
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 23,
+			"score": 0.00079831
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 7,
+			"score": 0.00071538
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 7,
+			"score": 0.00025854
+		}
+	],
+	"i j k l": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 19,
+			"score": 0.00147002
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 13,
+			"score": 0.00138785
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 29,
+			"score": 0.00100656
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 9,
+			"score": 0.00091978
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 10,
+			"score": 0.00036934
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 67,
+			"score": 0.00684722
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 58,
+			"score": 0.00619195
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 69,
+			"score": 0.00533849
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 136,
+			"score": 0.00502308
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 102,
+			"score": 0.00354031
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 26,
+			"score": 0.00805452
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 100,
+			"score": 0.00773694
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 168,
+			"score": 0.00583111
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 30,
+			"score": 0.00320273
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 26,
+			"score": 0.00265713
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 61,
+			"score": 0.00225300
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 14,
+			"score": 0.00108317
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 23,
+			"score": 0.00079831
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 7,
+			"score": 0.00071538
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 447,
+			"score": 0.04568217
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1232,
+			"score": 0.04550323
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 409,
+			"score": 0.04366393
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 136,
+			"score": 0.04213135
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 500,
+			"score": 0.03868472
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1111,
+			"score": 0.03856166
+		}
+	],
+	"j": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 15,
+			"score": 0.00116054
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 10,
+			"score": 0.00106758
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 20,
+			"score": 0.00069418
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 6,
+			"score": 0.00061318
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"j k l": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 18,
+			"score": 0.00139265
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 13,
+			"score": 0.00138785
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 26,
+			"score": 0.00090243
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 8,
+			"score": 0.00081758
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 75,
+			"score": 0.00766479
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 60,
+			"score": 0.00640547
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 77,
+			"score": 0.00595745
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 134,
+			"score": 0.00494922
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 130,
+			"score": 0.00451217
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 4,
+			"score": 0.00040879
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"ja je ji jo ju": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 9,
+			"score": 0.00091978
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"k": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"k l": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 3,
+			"score": 0.00032027
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 6,
+			"score": 0.00020825
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 60,
+			"score": 0.00613183
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 45,
+			"score": 0.00480410
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 126,
+			"score": 0.00465374
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 43,
+			"score": 0.00332689
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 72,
+			"score": 0.00249905
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 74,
+			"score": 0.00756260
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 63,
+			"score": 0.00672574
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 77,
+			"score": 0.00595745
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 138,
+			"score": 0.00509695
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 123,
+			"score": 0.00426920
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+	],
+	"ka ke ki ko ku": [
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+	],
+	"l": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 5,
+			"score": 0.00017354
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 4,
+			"score": 0.00040879
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 8,
+			"score": 0.00027767
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"la le li lo lu": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 4,
+			"score": 0.00040879
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+	],
+	"m": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 22,
+			"score": 0.00081256
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 9,
+			"score": 0.00069632
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 8,
+			"score": 0.00027767
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"m n": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 12,
+			"score": 0.00128109
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 13,
+			"score": 0.00100580
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 25,
+			"score": 0.00092336
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 19,
+			"score": 0.00065947
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 4,
+			"score": 0.00040879
+		}
+	],
+	"m n o": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 58,
+			"score": 0.00592744
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 123,
+			"score": 0.00454294
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 42,
+			"score": 0.00448383
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 40,
+			"score": 0.00309478
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 66,
+			"score": 0.00229079
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"m n o p": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 58,
+			"score": 0.00592744
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 45,
+			"score": 0.00480410
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 126,
+			"score": 0.00465374
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 50,
+			"score": 0.00386847
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 73,
+			"score": 0.00253375
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 67,
+			"score": 0.00684722
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 47,
+			"score": 0.00501762
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 129,
+			"score": 0.00476454
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 59,
+			"score": 0.00456480
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 104,
+			"score": 0.00360973
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 2,
+			"score": 0.00006942
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 1,
+			"score": 0.00010676
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 2,
+			"score": 0.00006942
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		}
+	],
+	"n": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 10,
+			"score": 0.00106758
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 11,
+			"score": 0.00038180
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 4,
+			"score": 0.00030948
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"na ne ni no nu": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 57,
+			"score": 0.00210526
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 58,
+			"score": 0.00201312
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 15,
+			"score": 0.00160137
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 5,
+			"score": 0.00154895
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 14,
+			"score": 0.00143076
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 18,
+			"score": 0.00139265
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 62,
+			"score": 0.00228994
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 60,
+			"score": 0.00208254
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 5,
+			"score": 0.00154895
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 14,
+			"score": 0.00149461
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 14,
+			"score": 0.00143076
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 18,
+			"score": 0.00139265
+		}
+	],
+	"o": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 54,
+			"score": 0.00551865
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 98,
+			"score": 0.00361958
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 30,
+			"score": 0.00320273
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 27,
+			"score": 0.00208897
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 47,
+			"score": 0.00163132
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"o p": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 54,
+			"score": 0.00551865
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 101,
+			"score": 0.00373038
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 33,
+			"score": 0.00352301
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 37,
+			"score": 0.00286267
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 54,
+			"score": 0.00187428
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 68,
+			"score": 0.00694941
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 48,
+			"score": 0.00512437
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 63,
+			"score": 0.00487427
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 115,
+			"score": 0.00424746
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 99,
+			"score": 0.00343619
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 346,
+			"score": 0.03536025
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 268,
+			"score": 0.02861108
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 755,
+			"score": 0.02788550
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 724,
+			"score": 0.02512929
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 247,
+			"score": 0.01911025
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 56,
+			"score": 0.01734820
+		}
+	],
+	"oa oe oi oo ou": [
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 463,
+			"score": 0.01710065
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 394,
+			"score": 0.01367533
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 126,
+			"score": 0.01345148
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 43,
+			"score": 0.01332094
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 120,
+			"score": 0.01226367
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 112,
+			"score": 0.00866538
+		}
+	],
+	"p": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 10,
+			"score": 0.00077369
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 3,
+			"score": 0.00032027
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 7,
+			"score": 0.00024296
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"p q r": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 19,
+			"score": 0.00147002
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 38,
+			"score": 0.00131894
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 9,
+			"score": 0.00091978
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 5,
+			"score": 0.00053379
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 34,
+			"score": 0.00263056
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 18,
+			"score": 0.00192164
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 51,
+			"score": 0.00177016
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 14,
+			"score": 0.00143076
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 12,
+			"score": 0.00044321
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"pa pe pi po pu": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"q": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 18,
+			"score": 0.00062476
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"q r": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 31,
+			"score": 0.00107598
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 9,
+			"score": 0.00091978
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 9,
+			"score": 0.00069632
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"q r s t": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 24,
+			"score": 0.00185687
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 15,
+			"score": 0.00160137
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 44,
+			"score": 0.00152719
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 14,
+			"score": 0.00143076
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 9,
+			"score": 0.00033241
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 80,
+			"score": 0.00277672
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 26,
+			"score": 0.00277570
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 31,
+			"score": 0.00239845
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 16,
+			"score": 0.00163516
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 36,
+			"score": 0.00132964
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+	],
+	"qa qe qi qo qu": [
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"r": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 7,
+			"score": 0.00071538
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 9,
+			"score": 0.00069632
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 13,
+			"score": 0.00045122
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 22,
+			"score": 0.00224834
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"ra re ri ro ru": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 5,
+			"score": 0.00051099
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		}
+	],
+	"s": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 8,
+			"score": 0.00085406
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 8,
+			"score": 0.00061896
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 5,
+			"score": 0.00051099
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 4,
+			"score": 0.00013884
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"s t": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 13,
+			"score": 0.00138785
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 15,
+			"score": 0.00116054
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 5,
+			"score": 0.00051099
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 13,
+			"score": 0.00045122
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		}
+	],
+	"s t u": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 13,
+			"score": 0.00138785
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 17,
+			"score": 0.00131528
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 5,
+			"score": 0.00051099
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 14,
+			"score": 0.00048593
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 11,
+			"score": 0.00040628
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 24,
+			"score": 0.00256219
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 22,
+			"score": 0.00170213
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 49,
+			"score": 0.00170074
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 33,
+			"score": 0.00121884
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 7,
+			"score": 0.00071538
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 8,
+			"score": 0.00029548
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		}
+	],
+	"sa se si so su": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 35,
+			"score": 0.00129271
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 9,
+			"score": 0.00096082
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 8,
+			"score": 0.00081758
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 22,
+			"score": 0.00076360
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 50,
+			"score": 0.00173545
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 43,
+			"score": 0.00158818
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 10,
+			"score": 0.00106758
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 8,
+			"score": 0.00081758
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 6,
+			"score": 0.00046422
+		}
+	],
+	"t": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 7,
+			"score": 0.00054159
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 5,
+			"score": 0.00053379
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 9,
+			"score": 0.00031238
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		}
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 19,
+			"score": 0.00194175
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"ta te ti to tu": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 100,
+			"score": 0.03097893
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 804,
+			"score": 0.02790601
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 273,
+			"score": 0.02789985
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 234,
+			"score": 0.02498132
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 603,
+			"score": 0.02227147
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 281,
+			"score": 0.02174081
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 100,
+			"score": 0.03097893
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 803,
+			"score": 0.02787130
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 254,
+			"score": 0.02595810
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 234,
+			"score": 0.02498132
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 606,
+			"score": 0.02238227
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 281,
+			"score": 0.02174081
+		}
+	],
+	"u": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"u v": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 2,
+			"score": 0.00006942
+		}
+	],
+	"u v w x": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 36,
+			"score": 0.00124952
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 11,
+			"score": 0.00117434
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 27,
+			"score": 0.00099723
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 7,
+			"score": 0.00054159
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 37,
+			"score": 0.00128423
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 11,
+			"score": 0.00117434
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 29,
+			"score": 0.00107110
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 2,
+			"score": 0.00061958
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 7,
+			"score": 0.00054159
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 3,
+			"score": 0.00030659
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 152,
+			"score": 0.01176015
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 7,
+			"score": 0.00025854
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"ua ue ui uo uu": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 152,
+			"score": 0.01176015
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		}
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 41,
+			"score": 0.00151431
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 4,
+			"score": 0.00040879
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 3,
+			"score": 0.00032027
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		}
+	],
+	"v": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"v w x": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 35,
+			"score": 0.00121481
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 11,
+			"score": 0.00117434
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 22,
+			"score": 0.00081256
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+	],
+	"va ve vi vo vu": [
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+	],
+	"w": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 3,
+			"score": 0.00011080
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"w x": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 34,
+			"score": 0.00118010
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 11,
+			"score": 0.00117434
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 22,
+			"score": 0.00081256
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 5,
+			"score": 0.00038685
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 3,
+			"score": 0.00092937
+		},
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 2,
+			"score": 0.00021352
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"x": [
+		{
+			"where": "text/rfcs/rfc6838.txt",
+			"count": 11,
+			"score": 0.00117434
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 33,
+			"score": 0.00114540
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 19,
+			"score": 0.00070175
+		},
+		{
+			"where": "text/rfcs/rfc475.txt",
+			"count": 1,
+			"score": 0.00030979
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 3,
+			"score": 0.00023211
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 2,
+			"score": 0.00020439
+		}
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 15,
+			"score": 0.00052063
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"xa xe xi xo xu": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 6,
+			"score": 0.00020825
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 1,
+			"score": 0.00007737
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 48,
+			"score": 0.00166603
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		}
+	],
+	"y": [
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"y z": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 6,
+			"score": 0.00022161
+		},
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc6805.txt",
+			"count": 1,
+			"score": 0.00010220
+		},
+		{
+			"where": "text/rfcs/rfc7231.txt",
+			"count": 1,
+			"score": 0.00003471
+		}
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"ya ye yi yo yu": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 1,
+			"score": 0.00003693
+		}
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 2,
+			"score": 0.00007387
+		}
+	],
+	"z": [
+		{
+			"where": "text/rfcs/rfc6797.txt",
+			"count": 2,
+			"score": 0.00015474
+		},
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 4,
+			"score": 0.00014774
+		}
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 25,
+			"score": 0.00092336
+		}
+	],
+	"za ze zi zo zu": [
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+		{
+			"where": "text/rfcs/rfc5646.txt",
+			"count": 5,
+			"score": 0.00018467
+		}
+	]
+}

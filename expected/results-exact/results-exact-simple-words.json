@@ -1,0 +1,20 @@
+{
+	"abcdefghijklmnopqrstuvwxyz": [
+	],
+	"o p": [
+	],
+	"observ perfor": [
+		{
+			"where": "text/simple/words.tExT",
+			"count": 13,
+			"score": 0.54166667
+		}
+	],
+	"perform": [
+		{
+			"where": "text/simple/words.tExT",
+			"count": 8,
+			"score": 0.33333333
+		}
+	]
+}

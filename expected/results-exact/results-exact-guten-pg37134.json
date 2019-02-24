@@ -1,0 +1,821 @@
+{
+	"a": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 458,
+			"score": 0.02743172
+		}
+	],
+	"a b": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 471,
+			"score": 0.02821035
+		}
+	],
+	"a b c": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 484,
+			"score": 0.02898898
+		}
+	],
+	"a b c d": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 490,
+			"score": 0.02934835
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 516,
+			"score": 0.03090561
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 529,
+			"score": 0.03168424
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 530,
+			"score": 0.03174413
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 530,
+			"score": 0.03174413
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 577,
+			"score": 0.03455918
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 577,
+			"score": 0.03455918
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 595,
+			"score": 0.03563728
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 7,
+			"score": 0.00041926
+		}
+	],
+	"aa ae ai ao au": [
+	],
+	"aa ee ii oo uu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 7,
+			"score": 0.00041926
+		}
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 278,
+			"score": 0.01665069
+		}
+	],
+	"b": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 13,
+			"score": 0.00077863
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 165,
+			"score": 0.00988261
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 165,
+			"score": 0.00988261
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 157,
+			"score": 0.00940345
+		}
+	],
+	"c": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 13,
+			"score": 0.00077863
+		}
+	],
+	"c d": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 19,
+			"score": 0.00113800
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+	],
+	"ca ce ci co cu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"d": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 6,
+			"score": 0.00035937
+		}
+	],
+	"d e f": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 45,
+			"score": 0.00269526
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 45,
+			"score": 0.00269526
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 46,
+			"score": 0.00275515
+		}
+	],
+	"e": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 26,
+			"score": 0.00155726
+		}
+	],
+	"e f": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 39,
+			"score": 0.00233589
+		}
+	],
+	"e f g h": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 40,
+			"score": 0.00239578
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"ea ee ei eo eu": [
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"f": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 13,
+			"score": 0.00077863
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 61,
+			"score": 0.00365357
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+	],
+	"fa fe fi fo fu": [
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+	],
+	"g": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"g h": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"g h i": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 48,
+			"score": 0.00287494
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 49,
+			"score": 0.00293483
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"h": [
+	],
+	"h i j k l m n": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 50,
+			"score": 0.00299473
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 135,
+			"score": 0.00808577
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 135,
+			"score": 0.00808577
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+	],
+	"i": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 47,
+			"score": 0.00281505
+		}
+	],
+	"i j": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 47,
+			"score": 0.00281505
+		}
+	],
+	"i j k l": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 48,
+			"score": 0.00287494
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 53,
+			"score": 0.00317441
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 82,
+			"score": 0.00491136
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 7,
+			"score": 0.00041926
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 909,
+			"score": 0.05444418
+		}
+	],
+	"j": [
+	],
+	"j k l": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 8,
+			"score": 0.00047916
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+	],
+	"ja je ji jo ju": [
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"k": [
+	],
+	"k l": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 13,
+			"score": 0.00077863
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+	],
+	"ka ke ki ko ku": [
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+	],
+	"l": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"la le li lo lu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+	],
+	"m": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"m n": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"m n o": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"m n o p": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 7,
+			"score": 0.00041926
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 9,
+			"score": 0.00053905
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 9,
+			"score": 0.00053905
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 28,
+			"score": 0.00167705
+		}
+	],
+	"n": [
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"na ne ni no nu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 42,
+			"score": 0.00251557
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 42,
+			"score": 0.00251557
+		}
+	],
+	"o": [
+	],
+	"o p": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 10,
+			"score": 0.00059895
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 708,
+			"score": 0.04240537
+		}
+	],
+	"oa oe oi oo ou": [
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 301,
+			"score": 0.01802827
+		}
+	],
+	"p": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"p q r": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 10,
+			"score": 0.00059895
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"pa pe pi po pu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"q": [
+	],
+	"q r": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"q r s t": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 7,
+			"score": 0.00041926
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 12,
+			"score": 0.00071874
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+	],
+	"qa qe qi qo qu": [
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+	],
+	"r": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+	],
+	"ra re ri ro ru": [
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+	],
+	"s": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 4,
+			"score": 0.00023958
+		}
+	],
+	"s t": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"s t u": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 10,
+			"score": 0.00059895
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+	],
+	"sa se si so su": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 32,
+			"score": 0.00191663
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 33,
+			"score": 0.00197652
+		}
+	],
+	"t": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 1,
+			"score": 0.00005989
+		}
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+	],
+	"ta te ti to tu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 400,
+			"score": 0.02395783
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 400,
+			"score": 0.02395783
+		}
+	],
+	"u": [
+	],
+	"u v": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"u v w x": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+	],
+	"ua ue ui uo uu": [
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 27,
+			"score": 0.00161715
+		}
+	],
+	"v": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"v w x": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 5,
+			"score": 0.00029947
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 3,
+			"score": 0.00017968
+		}
+	],
+	"va ve vi vo vu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 2,
+			"score": 0.00011979
+		}
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+	],
+	"w": [
+	],
+	"w x": [
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 24,
+			"score": 0.00143747
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "text/guten/pg37134.txt",
+			"count": 24,
+			"score": 0.00143747
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+	],
+	"x": [
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+	],
+	"xa xe xi xo xu": [
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+	],
+	"y": [
+	],
+	"y z": [
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+	],
+	"ya ye yi yo yu": [
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+	],
+	"z": [
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+	],
+	"za ze zi zo zu": [
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+	]
+}

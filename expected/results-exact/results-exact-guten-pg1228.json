@@ -1,0 +1,836 @@
+{
+	"a": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2535,
+			"score": 0.01611120
+		}
+	],
+	"a b": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2546,
+			"score": 0.01618111
+		}
+	],
+	"a b c": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2588,
+			"score": 0.01644804
+		}
+	],
+	"a b c d": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2590,
+			"score": 0.01646075
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2624,
+			"score": 0.01667684
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2680,
+			"score": 0.01703274
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2681,
+			"score": 0.01703910
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2691,
+			"score": 0.01710265
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3682,
+			"score": 0.02340096
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3691,
+			"score": 0.02345816
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3779,
+			"score": 0.02401744
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 87,
+			"score": 0.00055293
+		}
+	],
+	"aa ae ai ao au": [
+	],
+	"aa ee ii oo uu": [
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2797,
+			"score": 0.01777634
+		}
+	],
+	"b": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 11,
+			"score": 0.00006991
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2075,
+			"score": 0.01318767
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2074,
+			"score": 0.01318131
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1373,
+			"score": 0.00872610
+		}
+	],
+	"c": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 42,
+			"score": 0.00026693
+		}
+	],
+	"c d": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 44,
+			"score": 0.00027964
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+	],
+	"ca ce ci co cu": [
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+	],
+	"d": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"d e f": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 92,
+			"score": 0.00058471
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 28,
+			"score": 0.00017795
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 288,
+			"score": 0.00183038
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 307,
+			"score": 0.00195114
+		}
+	],
+	"e": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 34,
+			"score": 0.00021609
+		}
+	],
+	"e f": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 90,
+			"score": 0.00057200
+		}
+	],
+	"e f g h": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 101,
+			"score": 0.00064191
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+	],
+	"ea ee ei eo eu": [
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+	],
+	"f": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 56,
+			"score": 0.00035591
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1067,
+			"score": 0.00678132
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+	],
+	"fa fe fi fo fu": [
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+	],
+	"g": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"g h": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 11,
+			"score": 0.00006991
+		}
+	],
+	"g h i": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1002,
+			"score": 0.00636821
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1016,
+			"score": 0.00645719
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 37,
+			"score": 0.00023515
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 37,
+			"score": 0.00023515
+		}
+	],
+	"h": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 10,
+			"score": 0.00006356
+		}
+	],
+	"h i j k l m n": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1054,
+			"score": 0.00669870
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 165,
+			"score": 0.00104866
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 165,
+			"score": 0.00104866
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+	],
+	"i": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 991,
+			"score": 0.00629830
+		}
+	],
+	"i j": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1000,
+			"score": 0.00635550
+		}
+	],
+	"i j k l": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1005,
+			"score": 0.00638728
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1058,
+			"score": 0.00672412
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 436,
+			"score": 0.00277100
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 4,
+			"score": 0.00002542
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 6982,
+			"score": 0.04437411
+		}
+	],
+	"j": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 9,
+			"score": 0.00005720
+		}
+	],
+	"j k l": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 14,
+			"score": 0.00008898
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 74,
+			"score": 0.00047031
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+	],
+	"ja je ji jo ju": [
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+	],
+	"k": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"k l": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 5,
+			"score": 0.00003178
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 49,
+			"score": 0.00031142
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 68,
+			"score": 0.00043217
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+	],
+	"ka ke ki ko ku": [
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+	],
+	"l": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 4,
+			"score": 0.00002542
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 14,
+			"score": 0.00008898
+		}
+	],
+	"la le li lo lu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 14,
+			"score": 0.00008898
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+	],
+	"m": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 35,
+			"score": 0.00022244
+		}
+	],
+	"m n": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 39,
+			"score": 0.00024786
+		}
+	],
+	"m n o": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 44,
+			"score": 0.00027964
+		}
+	],
+	"m n o p": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 53,
+			"score": 0.00033684
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 60,
+			"score": 0.00038133
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 156,
+			"score": 0.00099146
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 154,
+			"score": 0.00097875
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 266,
+			"score": 0.00169056
+		}
+	],
+	"n": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 4,
+			"score": 0.00002542
+		}
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+	],
+	"na ne ni no nu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 333,
+			"score": 0.00211638
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 333,
+			"score": 0.00211638
+		}
+	],
+	"o": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 5,
+			"score": 0.00003178
+		}
+	],
+	"o p": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 14,
+			"score": 0.00008898
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 24,
+			"score": 0.00015253
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 7966,
+			"score": 0.05062792
+		}
+	],
+	"oa oe oi oo ou": [
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2833,
+			"score": 0.01800514
+		}
+	],
+	"p": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 9,
+			"score": 0.00005720
+		}
+	],
+	"p q r": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 16,
+			"score": 0.00010169
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 19,
+			"score": 0.00012075
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"pa pe pi po pu": [
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+	],
+	"q": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"q r": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 7,
+			"score": 0.00004449
+		}
+	],
+	"q r s t": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 10,
+			"score": 0.00006356
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 25,
+			"score": 0.00015889
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+	],
+	"qa qe qi qo qu": [
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+	],
+	"r": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 5,
+			"score": 0.00003178
+		}
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+	],
+	"ra re ri ro ru": [
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+	],
+	"s": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3,
+			"score": 0.00001907
+		}
+	],
+	"s t": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3,
+			"score": 0.00001907
+		}
+	],
+	"s t u": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3,
+			"score": 0.00001907
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 18,
+			"score": 0.00011440
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3,
+			"score": 0.00001907
+		}
+	],
+	"sa se si so su": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 515,
+			"score": 0.00327308
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 530,
+			"score": 0.00336842
+		}
+	],
+	"t": [
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"ta te ti to tu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3678,
+			"score": 0.02337553
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 3678,
+			"score": 0.02337553
+		}
+	],
+	"u": [
+	],
+	"u v": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"u v w x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 15,
+			"score": 0.00009533
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 15,
+			"score": 0.00009533
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+	],
+	"ua ue ui uo uu": [
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 204,
+			"score": 0.00129652
+		}
+	],
+	"v": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"v w x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 15,
+			"score": 0.00009533
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"va ve vi vo vu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1,
+			"score": 0.00000636
+		}
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+	],
+	"w": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 11,
+			"score": 0.00006991
+		}
+	],
+	"w x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 13,
+			"score": 0.00008262
+		}
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1162,
+			"score": 0.00738509
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 1162,
+			"score": 0.00738509
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+	],
+	"x": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+	],
+	"xa xe xi xo xu": [
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+	],
+	"y": [
+	],
+	"y z": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 5,
+			"score": 0.00003178
+		}
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+	],
+	"ya ye yi yo yu": [
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+	],
+	"z": [
+		{
+			"where": "text/guten/pg1228.txt",
+			"count": 5,
+			"score": 0.00003178
+		}
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+	],
+	"za ze zi zo zu": [
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+	]
+}

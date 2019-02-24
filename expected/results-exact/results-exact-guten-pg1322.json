@@ -1,0 +1,836 @@
+{
+	"a": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1312,
+			"score": 0.01054917
+		}
+	],
+	"a b": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1315,
+			"score": 0.01057329
+		}
+	],
+	"a b c": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1320,
+			"score": 0.01061349
+		}
+	],
+	"a b c d": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1324,
+			"score": 0.01064565
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1346,
+			"score": 0.01082255
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1357,
+			"score": 0.01091099
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1361,
+			"score": 0.01094315
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1361,
+			"score": 0.01094315
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4219,
+			"score": 0.03392297
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4219,
+			"score": 0.03392297
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4795,
+			"score": 0.03855431
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 274,
+			"score": 0.00220310
+		}
+	],
+	"aa ae ai ao au": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"aa ee ii oo uu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1446,
+			"score": 0.01162660
+		}
+	],
+	"b": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 3,
+			"score": 0.00002412
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 525,
+			"score": 0.00422128
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 525,
+			"score": 0.00422128
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 502,
+			"score": 0.00403634
+		}
+	],
+	"c": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 5,
+			"score": 0.00004020
+		}
+	],
+	"c d": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 9,
+			"score": 0.00007236
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+	],
+	"ca ce ci co cu": [
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+	],
+	"d": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"d e f": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 37,
+			"score": 0.00029750
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 271,
+			"score": 0.00217898
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 272,
+			"score": 0.00218702
+		}
+	],
+	"e": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 22,
+			"score": 0.00017689
+		}
+	],
+	"e f": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 33,
+			"score": 0.00026534
+		}
+	],
+	"e f g h": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 37,
+			"score": 0.00029750
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"ea ee ei eo eu": [
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+	],
+	"f": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 11,
+			"score": 0.00008845
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2873,
+			"score": 0.02310043
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+	],
+	"fa fe fi fo fu": [
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+	],
+	"g": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"g h": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"g h i": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2862,
+			"score": 0.02301198
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2863,
+			"score": 0.02302002
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 141,
+			"score": 0.00113371
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 142,
+			"score": 0.00114175
+		}
+	],
+	"h": [
+	],
+	"h i j k l m n": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2859,
+			"score": 0.02298786
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 298,
+			"score": 0.00239608
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 299,
+			"score": 0.00240412
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"i": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2858,
+			"score": 0.02297982
+		}
+	],
+	"i j": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2858,
+			"score": 0.02297982
+		}
+	],
+	"i j k l": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2859,
+			"score": 0.02298786
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 3426,
+			"score": 0.02754684
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 170,
+			"score": 0.00136689
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4076,
+			"score": 0.03277318
+		}
+	],
+	"j": [
+	],
+	"j k l": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 568,
+			"score": 0.00456702
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+	],
+	"ja je ji jo ju": [
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+	],
+	"k": [
+	],
+	"k l": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 567,
+			"score": 0.00455898
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 572,
+			"score": 0.00459918
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+	],
+	"ka ke ki ko ku": [
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+	],
+	"l": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+	],
+	"la le li lo lu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 45,
+			"score": 0.00036182
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 45,
+			"score": 0.00036182
+		}
+	],
+	"m": [
+	],
+	"m n": [
+	],
+	"m n o": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 566,
+			"score": 0.00455094
+		}
+	],
+	"m n o p": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 567,
+			"score": 0.00455898
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 567,
+			"score": 0.00455898
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 993,
+			"score": 0.00798424
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 993,
+			"score": 0.00798424
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1003,
+			"score": 0.00806465
+		}
+	],
+	"n": [
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+	],
+	"na ne ni no nu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 280,
+			"score": 0.00225135
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 280,
+			"score": 0.00225135
+		}
+	],
+	"o": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 566,
+			"score": 0.00455094
+		}
+	],
+	"o p": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 567,
+			"score": 0.00455898
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 572,
+			"score": 0.00459918
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4374,
+			"score": 0.03516925
+		}
+	],
+	"oa oe oi oo ou": [
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1757,
+			"score": 0.01412720
+		}
+	],
+	"p": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"p q r": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 5,
+			"score": 0.00004020
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"pa pe pi po pu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"q": [
+	],
+	"q r": [
+	],
+	"q r s t": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 8,
+			"score": 0.00006432
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+	],
+	"qa qe qi qo qu": [
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+	],
+	"r": [
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+	],
+	"ra re ri ro ru": [
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+	],
+	"s": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 3,
+			"score": 0.00002412
+		}
+	],
+	"s t": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"s t u": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 5,
+			"score": 0.00004020
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 8,
+			"score": 0.00006432
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+	],
+	"sa se si so su": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 249,
+			"score": 0.00200209
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 256,
+			"score": 0.00205837
+		}
+	],
+	"t": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 6,
+			"score": 0.00004824
+		}
+	],
+	"ta te ti to tu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2230,
+			"score": 0.01793037
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2230,
+			"score": 0.01793037
+		}
+	],
+	"u": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"u v": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 3,
+			"score": 0.00002412
+		}
+	],
+	"u v w x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 4,
+			"score": 0.00003216
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+	],
+	"ua ue ui uo uu": [
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 293,
+			"score": 0.00235587
+		}
+	],
+	"v": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2,
+			"score": 0.00001608
+		}
+	],
+	"v w x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 3,
+			"score": 0.00002412
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2,
+			"score": 0.00001608
+		}
+	],
+	"va ve vi vo vu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2,
+			"score": 0.00001608
+		}
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+	],
+	"w": [
+	],
+	"w x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 331,
+			"score": 0.00266141
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 331,
+			"score": 0.00266141
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+	],
+	"x": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"xa xe xi xo xu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 1,
+			"score": 0.00000804
+		}
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 2,
+			"score": 0.00001608
+		}
+	],
+	"y": [
+	],
+	"y z": [
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 32,
+			"score": 0.00025730
+		}
+	],
+	"ya ye yi yo yu": [
+		{
+			"where": "text/guten/pg1322.txt",
+			"count": 32,
+			"score": 0.00025730
+		}
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+	],
+	"z": [
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+	],
+	"za ze zi zo zu": [
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+	]
+}
