@@ -1,0 +1,5116 @@
+{
+	"a": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1624,
+			"score": 0.12545384
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1190,
+			"score": 0.12141618
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 377,
+			"score": 0.11635802
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3262,
+			"score": 0.11314603
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1048,
+			"score": 0.11166755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2954,
+			"score": 0.10901978
+		}
+	],
+	"a b": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1568,
+			"score": 0.15998368
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 508,
+			"score": 0.15679012
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1459,
+			"score": 0.15546084
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1962,
+			"score": 0.15156431
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 4202,
+			"score": 0.14575095
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 3934,
+			"score": 0.14518748
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		}
+	],
+	"a b c": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2237,
+			"score": 0.22824202
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 6089,
+			"score": 0.21120361
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 682,
+			"score": 0.21049383
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2604,
+			"score": 0.20115875
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1863,
+			"score": 0.19850826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 5367,
+			"score": 0.19807352
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 9,
+			"score": 0.16981132
+		}
+	],
+	"a b c d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2844,
+			"score": 0.29017447
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 792,
+			"score": 0.24444444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 6989,
+			"score": 0.24242109
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3123,
+			"score": 0.24125145
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 6287,
+			"score": 0.23202687
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2142,
+			"score": 0.22823655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 11,
+			"score": 0.20754717
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3153,
+			"score": 0.32170187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3535,
+			"score": 0.27307841
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 7686,
+			"score": 0.26659729
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 7137,
+			"score": 0.26339681
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 838,
+			"score": 0.25864198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2388,
+			"score": 0.25444859
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 12,
+			"score": 0.22641509
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3494,
+			"score": 0.35649424
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1039,
+			"score": 0.32067901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 9012,
+			"score": 0.31259105
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 8368,
+			"score": 0.30882787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3988,
+			"score": 0.30807261
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2754,
+			"score": 0.29344699
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 14,
+			"score": 0.26415094
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3555,
+			"score": 0.36271809
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1059,
+			"score": 0.32685185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 9260,
+			"score": 0.32119320
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 8597,
+			"score": 0.31727930
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 4061,
+			"score": 0.31371186
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2805,
+			"score": 0.29888119
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 15,
+			"score": 0.28301887
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 5023,
+			"score": 0.38802626
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3740,
+			"score": 0.38159371
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 19,
+			"score": 0.35849057
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 10252,
+			"score": 0.35560180
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1143,
+			"score": 0.35277778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 8883,
+			"score": 0.32783437
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2928,
+			"score": 0.31198721
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 4594,
+			"score": 0.46872768
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 6039,
+			"score": 0.46651217
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1395,
+			"score": 0.43055556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 12342,
+			"score": 0.42809573
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 11163,
+			"score": 0.41197963
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3724,
+			"score": 0.39680341
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 21,
+			"score": 0.39622642
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 4621,
+			"score": 0.47148250
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 6080,
+			"score": 0.46967941
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 12498,
+			"score": 0.43350676
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1401,
+			"score": 0.43240741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 11204,
+			"score": 0.41349277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3781,
+			"score": 0.40287693
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 21,
+			"score": 0.39622642
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 28830,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 27096,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 12945,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 9801,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 9385,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 3240,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 53,
+			"score": 1.00000000
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 95,
+			"score": 0.02932099
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 358,
+			"score": 0.02765547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 744,
+			"score": 0.02580645
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 230,
+			"score": 0.02450719
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 588,
+			"score": 0.02170062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 201,
+			"score": 0.02050811
+		}
+	],
+	"aa ae ai ao au": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 10,
+			"score": 0.00308642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 35,
+			"score": 0.00270375
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 25,
+			"score": 0.00255076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 72,
+			"score": 0.00249740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 22,
+			"score": 0.00234417
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 63,
+			"score": 0.00232507
+		}
+	],
+	"aa ee ii oo uu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4,
+			"score": 0.00014762
+		}
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 6,
+			"score": 0.11320755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 994,
+			"score": 0.07678640
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 703,
+			"score": 0.07172737
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 216,
+			"score": 0.06666667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1751,
+			"score": 0.06462208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 596,
+			"score": 0.06350559
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1523,
+			"score": 0.05282692
+		}
+	],
+	"b": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 411,
+			"score": 0.04379329
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 131,
+			"score": 0.04043210
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 378,
+			"score": 0.03856749
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 980,
+			"score": 0.03616770
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 940,
+			"score": 0.03260493
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 338,
+			"score": 0.02611047
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 293,
+			"score": 0.03122003
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 90,
+			"score": 0.02777778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 646,
+			"score": 0.02384116
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 232,
+			"score": 0.02367105
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 553,
+			"score": 0.01918141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 184,
+			"score": 0.01421398
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 310,
+			"score": 0.03303143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 91,
+			"score": 0.02808642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 735,
+			"score": 0.02712578
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 254,
+			"score": 0.02591572
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 633,
+			"score": 0.02195630
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 222,
+			"score": 0.01714948
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 146,
+			"score": 0.01489644
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 381,
+			"score": 0.01321540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 41,
+			"score": 0.01265432
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 115,
+			"score": 0.01225360
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 320,
+			"score": 0.01180986
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 151,
+			"score": 0.01166474
+		}
+	],
+	"c": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 669,
+			"score": 0.06825834
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1887,
+			"score": 0.06545265
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 174,
+			"score": 0.05370370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1433,
+			"score": 0.05288603
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 642,
+			"score": 0.04959444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 404,
+			"score": 0.04304742
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		}
+	],
+	"c d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1276,
+			"score": 0.13019080
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2787,
+			"score": 0.09667014
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1161,
+			"score": 0.08968714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 284,
+			"score": 0.08765432
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2353,
+			"score": 0.08683939
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 683,
+			"score": 0.07277571
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 253,
+			"score": 0.02581369
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 580,
+			"score": 0.02011793
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 254,
+			"score": 0.01962148
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 62,
+			"score": 0.01913580
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 504,
+			"score": 0.01860053
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 158,
+			"score": 0.01683538
+		}
+	],
+	"ca ce ci co cu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1546,
+			"score": 0.05362470
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 503,
+			"score": 0.05132129
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 153,
+			"score": 0.04722222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 559,
+			"score": 0.04318270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1088,
+			"score": 0.04015353
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 316,
+			"score": 0.03367075
+		}
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1299,
+			"score": 0.04505723
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 414,
+			"score": 0.04224059
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 111,
+			"score": 0.03425926
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 918,
+			"score": 0.03387954
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 380,
+			"score": 0.02935496
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 243,
+			"score": 0.02589238
+		}
+	],
+	"d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 607,
+			"score": 0.06193246
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 519,
+			"score": 0.04009270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 920,
+			"score": 0.03395335
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 110,
+			"score": 0.03395062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 900,
+			"score": 0.03121748
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 279,
+			"score": 0.02972829
+		}
+	],
+	"d e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1257,
+			"score": 0.12825222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 3001,
+			"score": 0.11075435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 357,
+			"score": 0.11018519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1384,
+			"score": 0.10691387
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2923,
+			"score": 0.10138744
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 891,
+			"score": 0.09493873
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 5,
+			"score": 0.09433962
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 752,
+			"score": 0.02608394
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 81,
+			"score": 0.02500000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 669,
+			"score": 0.02468999
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 317,
+			"score": 0.02448822
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 195,
+			"score": 0.02077784
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 201,
+			"score": 0.02050811
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 592,
+			"score": 0.06040200
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 490,
+			"score": 0.03785245
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 109,
+			"score": 0.03364198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 906,
+			"score": 0.03343667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 886,
+			"score": 0.03073188
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 271,
+			"score": 0.02887587
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 395,
+			"score": 0.04030201
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 194,
+			"score": 0.01498648
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 245,
+			"score": 0.00904193
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 29,
+			"score": 0.00895062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 81,
+			"score": 0.00863079
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 141,
+			"score": 0.00489074
+		}
+	],
+	"e": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 412,
+			"score": 0.03182696
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 309,
+			"score": 0.03152740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 850,
+			"score": 0.03136994
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 246,
+			"score": 0.02621204
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 697,
+			"score": 0.02417621
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 46,
+			"score": 0.01419753
+		}
+	],
+	"e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2081,
+			"score": 0.07680100
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 247,
+			"score": 0.07623457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2023,
+			"score": 0.07016996
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 865,
+			"score": 0.06682117
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 650,
+			"score": 0.06631976
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 612,
+			"score": 0.06521044
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		}
+	],
+	"e f g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 8,
+			"score": 0.15094340
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1900,
+			"score": 0.14677482
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3263,
+			"score": 0.11318071
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 351,
+			"score": 0.10833333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2596,
+			"score": 0.09580750
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 896,
+			"score": 0.09141924
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 786,
+			"score": 0.08375067
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 104,
+			"score": 0.01061116
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 124,
+			"score": 0.00957899
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 198,
+			"score": 0.00686785
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 21,
+			"score": 0.00648148
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 57,
+			"score": 0.00607352
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 144,
+			"score": 0.00531444
+		}
+	],
+	"ea ee ei eo eu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 42,
+			"score": 0.00428528
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 101,
+			"score": 0.00372749
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 71,
+			"score": 0.00246271
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 22,
+			"score": 0.00234417
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 21,
+			"score": 0.00162225
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 2,
+			"score": 0.00061728
+		}
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 702,
+			"score": 0.02590788
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 283,
+			"score": 0.02186172
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 204,
+			"score": 0.02081420
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 188,
+			"score": 0.02003197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 495,
+			"score": 0.01716961
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 25,
+			"score": 0.00771605
+		}
+	],
+	"f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 201,
+			"score": 0.06203704
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1326,
+			"score": 0.04599376
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1231,
+			"score": 0.04543106
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 366,
+			"score": 0.03899840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 453,
+			"score": 0.03499421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 341,
+			"score": 0.03479237
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2545,
+			"score": 0.19660100
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 563,
+			"score": 0.17376543
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 9,
+			"score": 0.16981132
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 4812,
+			"score": 0.16690947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4067,
+			"score": 0.15009596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1468,
+			"score": 0.14978063
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1393,
+			"score": 0.14842834
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 615,
+			"score": 0.02133195
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 391,
+			"score": 0.01443017
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 44,
+			"score": 0.01358025
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 156,
+			"score": 0.01205098
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 84,
+			"score": 0.00857055
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 65,
+			"score": 0.00692595
+		}
+	],
+	"fa fe fi fo fu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 144,
+			"score": 0.04444444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1121,
+			"score": 0.04137142
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1185,
+			"score": 0.04110302
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 287,
+			"score": 0.03058071
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 389,
+			"score": 0.03005021
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 255,
+			"score": 0.02601775
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 157,
+			"score": 0.04845679
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 300,
+			"score": 0.03196590
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 836,
+			"score": 0.03085326
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 256,
+			"score": 0.02611978
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 708,
+			"score": 0.02455775
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 297,
+			"score": 0.02294322
+		}
+	],
+	"g": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 248,
+			"score": 0.00860215
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 229,
+			"score": 0.00845143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 61,
+			"score": 0.00622385
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 20,
+			"score": 0.00617284
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 73,
+			"score": 0.00563924
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 51,
+			"score": 0.00543420
+		}
+	],
+	"g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 5,
+			"score": 0.09433962
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1035,
+			"score": 0.07995365
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1240,
+			"score": 0.04301075
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 104,
+			"score": 0.03209877
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 246,
+			"score": 0.02509948
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 515,
+			"score": 0.01900650
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 174,
+			"score": 0.01854022
+		}
+	],
+	"g h i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2051,
+			"score": 0.15843955
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3330,
+			"score": 0.11550468
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1100,
+			"score": 0.11223345
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 356,
+			"score": 0.10987654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 970,
+			"score": 0.10335642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2795,
+			"score": 0.10315176
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2322,
+			"score": 0.17937428
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 8,
+			"score": 0.15094340
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4002,
+			"score": 0.14769708
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1348,
+			"score": 0.13753699
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3943,
+			"score": 0.13676726
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 422,
+			"score": 0.13024691
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1143,
+			"score": 0.12179009
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 203,
+			"score": 0.00704128
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 55,
+			"score": 0.00424874
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 99,
+			"score": 0.00365368
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 34,
+			"score": 0.00362280
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 24,
+			"score": 0.00244873
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 7,
+			"score": 0.00216049
+		}
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 209,
+			"score": 0.00724939
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 137,
+			"score": 0.00505610
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 64,
+			"score": 0.00494399
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 44,
+			"score": 0.00468833
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 11,
+			"score": 0.00339506
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 19,
+			"score": 0.00193858
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 129,
+			"score": 0.00476085
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 13,
+			"score": 0.00401235
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 17,
+			"score": 0.00181140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 43,
+			"score": 0.00149150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 14,
+			"score": 0.00142843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 17,
+			"score": 0.00131325
+		}
+	],
+	"h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 962,
+			"score": 0.07431441
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 992,
+			"score": 0.03440860
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 84,
+			"score": 0.02592593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 185,
+			"score": 0.01887562
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 123,
+			"score": 0.01310602
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 286,
+			"score": 0.01055506
+		}
+	],
+	"h i j k l m n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 840,
+			"score": 0.25925926
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3054,
+			"score": 0.23592121
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 11,
+			"score": 0.20754717
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1921,
+			"score": 0.20468833
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 5346,
+			"score": 0.19729849
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 5496,
+			"score": 0.19063476
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1833,
+			"score": 0.18702173
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 564,
+			"score": 0.01956296
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 159,
+			"score": 0.01622283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 52,
+			"score": 0.01604938
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 134,
+			"score": 0.01035149
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 83,
+			"score": 0.00884390
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 213,
+			"score": 0.00786094
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 437,
+			"score": 0.03375821
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 82,
+			"score": 0.02530864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 646,
+			"score": 0.02240721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 180,
+			"score": 0.01836547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 106,
+			"score": 0.01129462
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 250,
+			"score": 0.00922645
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 825,
+			"score": 0.06373117
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 422,
+			"score": 0.01463753
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 32,
+			"score": 0.00987654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 38,
+			"score": 0.00404901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 25,
+			"score": 0.00255076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 67,
+			"score": 0.00247269
+		}
+	],
+	"i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 854,
+			"score": 0.08713397
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 796,
+			"score": 0.08481620
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2280,
+			"score": 0.08414526
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1016,
+			"score": 0.07848590
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 252,
+			"score": 0.07777778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2090,
+			"score": 0.07249393
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		}
+	],
+	"i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 853,
+			"score": 0.09088972
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 881,
+			"score": 0.08988879
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2321,
+			"score": 0.08565840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1057,
+			"score": 0.08165315
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 258,
+			"score": 0.07962963
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2246,
+			"score": 0.07790496
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		}
+	],
+	"i j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 3487,
+			"score": 0.12869058
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1102,
+			"score": 0.11243751
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 969,
+			"score": 0.10324987
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1287,
+			"score": 0.09942063
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 318,
+			"score": 0.09814815
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2703,
+			"score": 0.09375650
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3382,
+			"score": 0.34506683
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1006,
+			"score": 0.31049383
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2842,
+			"score": 0.30282365
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 7959,
+			"score": 0.29373339
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 7364,
+			"score": 0.25542837
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3304,
+			"score": 0.25523368
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 13,
+			"score": 0.24528302
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 249,
+			"score": 0.01923523
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 179,
+			"score": 0.01907299
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 59,
+			"score": 0.01820988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 423,
+			"score": 0.01467222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 331,
+			"score": 0.01221583
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 104,
+			"score": 0.01061116
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 96,
+			"score": 0.01022909
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 143,
+			"score": 0.00527753
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 30,
+			"score": 0.00231750
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 52,
+			"score": 0.00180368
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 15,
+			"score": 0.00153046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 2,
+			"score": 0.00061728
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 749,
+			"score": 0.07642077
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1944,
+			"score": 0.07174491
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 617,
+			"score": 0.06574321
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 192,
+			"score": 0.05925926
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 766,
+			"score": 0.05917343
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1664,
+			"score": 0.05771766
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 57,
+			"score": 0.00607352
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 156,
+			"score": 0.00541103
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 41,
+			"score": 0.00316725
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 27,
+			"score": 0.00275482
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 6,
+			"score": 0.00185185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 41,
+			"score": 0.00151314
+		}
+	],
+	"j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1207,
+			"score": 0.04454532
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 248,
+			"score": 0.02530354
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 613,
+			"score": 0.02126257
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 271,
+			"score": 0.02093472
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 66,
+			"score": 0.02037037
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 173,
+			"score": 0.01843367
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 18,
+			"score": 0.33962264
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3065,
+			"score": 0.31272319
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2827,
+			"score": 0.30122536
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 888,
+			"score": 0.27407407
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 7860,
+			"score": 0.27263267
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 7352,
+			"score": 0.27133156
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2881,
+			"score": 0.22255697
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 37,
+			"score": 0.00394246
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 14,
+			"score": 0.00108150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 17,
+			"score": 0.00062740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 6,
+			"score": 0.00061218
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 6,
+			"score": 0.00020812
+		}
+	],
+	"ja je ji jo ju": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 45,
+			"score": 0.00479489
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 136,
+			"score": 0.00471731
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 26,
+			"score": 0.00200850
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 6,
+			"score": 0.00185185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 35,
+			"score": 0.00129170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 8,
+			"score": 0.00081624
+		}
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 130,
+			"score": 0.00450919
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 6,
+			"score": 0.00185185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 15,
+			"score": 0.00153046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 10,
+			"score": 0.00106553
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 12,
+			"score": 0.00092700
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 22,
+			"score": 0.00081193
+		}
+	],
+	"k": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 82,
+			"score": 0.00836649
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 91,
+			"score": 0.00702974
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 10,
+			"score": 0.00308642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 19,
+			"score": 0.00202451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 38,
+			"score": 0.00131807
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 35,
+			"score": 0.00129170
+		}
+	],
+	"k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1166,
+			"score": 0.04303218
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 221,
+			"score": 0.02254872
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 60,
+			"score": 0.01851852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 230,
+			"score": 0.01776748
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 457,
+			"score": 0.01585154
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 116,
+			"score": 0.01236015
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 651,
+			"score": 0.20092593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4479,
+			"score": 0.16530115
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1517,
+			"score": 0.16164092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 8,
+			"score": 0.15094340
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1448,
+			"score": 0.14774003
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 4017,
+			"score": 0.13933403
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1697,
+			"score": 0.13109309
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 32,
+			"score": 0.60377358
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 5120,
+			"score": 0.54555141
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 13896,
+			"score": 0.51284322
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 14518,
+			"score": 0.50357267
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 4890,
+			"score": 0.49892868
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1614,
+			"score": 0.49814815
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 5781,
+			"score": 0.44658169
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 40,
+			"score": 0.00408122
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 4,
+			"score": 0.00123457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 14,
+			"score": 0.00108150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 7,
+			"score": 0.00074587
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 17,
+			"score": 0.00058966
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 14,
+			"score": 0.00051668
+		}
+	],
+	"ka ke ki ko ku": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 42,
+			"score": 0.00428528
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 13,
+			"score": 0.00100425
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 19,
+			"score": 0.00070121
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 2,
+			"score": 0.00061728
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 5,
+			"score": 0.00053277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 13,
+			"score": 0.00045092
+		}
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 77,
+			"score": 0.00594824
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 41,
+			"score": 0.00418325
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 6,
+			"score": 0.00185185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 11,
+			"score": 0.00117208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 19,
+			"score": 0.00070121
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 20,
+			"score": 0.00069372
+		}
+	],
+	"l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1131,
+			"score": 0.04174048
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 50,
+			"score": 0.01543210
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 419,
+			"score": 0.01453347
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 139,
+			"score": 0.01418223
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 139,
+			"score": 0.01073774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 97,
+			"score": 0.01033564
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1080,
+			"score": 0.03985828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 321,
+			"score": 0.01113424
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 97,
+			"score": 0.00989695
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 83,
+			"score": 0.00884390
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 99,
+			"score": 0.00764774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 20,
+			"score": 0.00617284
+		}
+	],
+	"la le li lo lu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1128,
+			"score": 0.04162976
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 49,
+			"score": 0.01512346
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 406,
+			"score": 0.01408255
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 117,
+			"score": 0.01193756
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 135,
+			"score": 0.01042874
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 95,
+			"score": 0.01012254
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 29,
+			"score": 0.00895062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 41,
+			"score": 0.00418325
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 93,
+			"score": 0.00322581
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 37,
+			"score": 0.00285825
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 50,
+			"score": 0.00184529
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 12,
+			"score": 0.00127864
+		}
+	],
+	"m": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 284,
+			"score": 0.08765432
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 543,
+			"score": 0.05785828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1117,
+			"score": 0.03874436
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 956,
+			"score": 0.03528196
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 305,
+			"score": 0.03111927
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 379,
+			"score": 0.02927771
+		}
+	],
+	"m n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 438,
+			"score": 0.13518519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 829,
+			"score": 0.08833245
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1801,
+			"score": 0.06246965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 805,
+			"score": 0.06218617
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1573,
+			"score": 0.05805285
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 546,
+			"score": 0.05570860
+		}
+	],
+	"m n o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 591,
+			"score": 0.18240741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1401,
+			"score": 0.14928077
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1227,
+			"score": 0.12519131
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3560,
+			"score": 0.12348248
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 3313,
+			"score": 0.12226897
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1467,
+			"score": 0.11332561
+		}
+	],
+	"m n o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2280,
+			"score": 0.23262932
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 688,
+			"score": 0.21234568
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1873,
+			"score": 0.19957379
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 10,
+			"score": 0.18867925
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4472,
+			"score": 0.16504281
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 4661,
+			"score": 0.16167187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2017,
+			"score": 0.15581306
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 17,
+			"score": 0.32075472
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2817,
+			"score": 0.28741965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2654,
+			"score": 0.28279169
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 822,
+			"score": 0.25370370
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 7247,
+			"score": 0.25137010
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 6145,
+			"score": 0.22678624
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2610,
+			"score": 0.20162225
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 260,
+			"score": 0.08024691
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 458,
+			"score": 0.04880128
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 881,
+			"score": 0.03055845
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 580,
+			"score": 0.02140537
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 277,
+			"score": 0.02139822
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 201,
+			"score": 0.02050811
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 273,
+			"score": 0.08425926
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 541,
+			"score": 0.05764518
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1103,
+			"score": 0.03825876
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 926,
+			"score": 0.03417479
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 287,
+			"score": 0.02928273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 369,
+			"score": 0.02850521
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 354,
+			"score": 0.01306466
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 102,
+			"score": 0.01040710
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 83,
+			"score": 0.00884390
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 228,
+			"score": 0.00790843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 24,
+			"score": 0.00740741
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 93,
+			"score": 0.00718424
+		}
+	],
+	"n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 154,
+			"score": 0.04753086
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 426,
+			"score": 0.03290846
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 286,
+			"score": 0.03047416
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 241,
+			"score": 0.02458933
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 684,
+			"score": 0.02372529
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 617,
+			"score": 0.02277089
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 108,
+			"score": 0.03333333
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 132,
+			"score": 0.01406500
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 170,
+			"score": 0.01313248
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 245,
+			"score": 0.00849809
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 77,
+			"score": 0.00785634
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 172,
+			"score": 0.00634780
+		}
+	],
+	"na ne ni no nu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 144,
+			"score": 0.04444444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 418,
+			"score": 0.03229046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 275,
+			"score": 0.02930208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 239,
+			"score": 0.02438527
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 670,
+			"score": 0.02323968
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 603,
+			"score": 0.02225421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 252,
+			"score": 0.01946698
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 162,
+			"score": 0.01652893
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 442,
+			"score": 0.01631237
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 144,
+			"score": 0.01534363
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 428,
+			"score": 0.01484565
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 46,
+			"score": 0.01419753
+		}
+	],
+	"o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 681,
+			"score": 0.06948271
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1740,
+			"score": 0.06421612
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1759,
+			"score": 0.06101283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 572,
+			"score": 0.06094832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 662,
+			"score": 0.05113944
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 153,
+			"score": 0.04722222
+		}
+	],
+	"o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1734,
+			"score": 0.17692072
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 6,
+			"score": 0.11320755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1044,
+			"score": 0.11124134
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2899,
+			"score": 0.10698996
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2860,
+			"score": 0.09920222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1212,
+			"score": 0.09362688
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 250,
+			"score": 0.07716049
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 27,
+			"score": 0.50943396
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 4337,
+			"score": 0.46212040
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 13015,
+			"score": 0.45143947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 11856,
+			"score": 0.43755536
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 4199,
+			"score": 0.42842567
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 5243,
+			"score": 0.40502124
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1253,
+			"score": 0.38672840
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 379,
+			"score": 0.03866952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 292,
+			"score": 0.03111348
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 822,
+			"score": 0.03033658
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 798,
+			"score": 0.02767950
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 305,
+			"score": 0.02356122
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 57,
+			"score": 0.01759259
+		}
+	],
+	"oa oe oi oo ou": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 65,
+			"score": 0.00225460
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 15,
+			"score": 0.00153046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 3,
+			"score": 0.00092593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 11,
+			"score": 0.00084975
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 7,
+			"score": 0.00074587
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 16,
+			"score": 0.00059049
+		}
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 914,
+			"score": 0.03170309
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 820,
+			"score": 0.03026277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 95,
+			"score": 0.02932099
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 250,
+			"score": 0.02663825
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 330,
+			"score": 0.02549247
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 248,
+			"score": 0.02530354
+		}
+	],
+	"p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1053,
+			"score": 0.10743802
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 472,
+			"score": 0.05029302
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1159,
+			"score": 0.04277384
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 550,
+			"score": 0.04248745
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1101,
+			"score": 0.03818939
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 97,
+			"score": 0.02993827
+		}
+	],
+	"p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 10,
+			"score": 0.18867925
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1590,
+			"score": 0.16222834
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1253,
+			"score": 0.13351092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3687,
+			"score": 0.12788762
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2832,
+			"score": 0.10451727
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1143,
+			"score": 0.08829664
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 231,
+			"score": 0.07129630
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 24,
+			"score": 0.45283019
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3603,
+			"score": 0.38391050
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 10501,
+			"score": 0.36423864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 3442,
+			"score": 0.35118865
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 9417,
+			"score": 0.34754207
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 4084,
+			"score": 0.31548861
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 963,
+			"score": 0.29722222
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 885,
+			"score": 0.09029691
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 163,
+			"score": 0.01736814
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 443,
+			"score": 0.01536594
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 340,
+			"score": 0.01254798
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 143,
+			"score": 0.01104674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 23,
+			"score": 0.00709877
+		}
+	],
+	"pa pe pi po pu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 500,
+			"score": 0.05101520
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 334,
+			"score": 0.02580147
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 218,
+			"score": 0.02322856
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 589,
+			"score": 0.02043011
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 319,
+			"score": 0.01177296
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 34,
+			"score": 0.01049383
+		}
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 306,
+			"score": 0.03260522
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 397,
+			"score": 0.03066821
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 816,
+			"score": 0.03011515
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 74,
+			"score": 0.02283951
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 651,
+			"score": 0.02258065
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 168,
+			"score": 0.01714111
+		}
+	],
+	"q": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 33,
+			"score": 0.00336700
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 71,
+			"score": 0.00246271
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 4,
+			"score": 0.00123457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 8,
+			"score": 0.00085242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 10,
+			"score": 0.00077250
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 19,
+			"score": 0.00070121
+		}
+	],
+	"q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2586,
+			"score": 0.08969823
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 781,
+			"score": 0.08321790
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1673,
+			"score": 0.06174343
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 537,
+			"score": 0.05479033
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 593,
+			"score": 0.04580919
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 134,
+			"score": 0.04135802
+		}
+	],
+	"q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 21,
+			"score": 0.39622642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3131,
+			"score": 0.33361747
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 9400,
+			"score": 0.32604925
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 8258,
+			"score": 0.30476823
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3534,
+			"score": 0.27300116
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 866,
+			"score": 0.26728395
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2389,
+			"score": 0.24375064
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 21,
+			"score": 0.39622642
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 11169,
+			"score": 0.38740895
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3611,
+			"score": 0.38476292
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 10132,
+			"score": 0.37392973
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 4600,
+			"score": 0.35534956
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1091,
+			"score": 0.33672840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2664,
+			"score": 0.27180900
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 6,
+			"score": 0.00022143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1,
+			"score": 0.00007725
+		}
+	],
+	"qa qe qi qo qu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 30,
+			"score": 0.00306091
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 41,
+			"score": 0.00142213
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 4,
+			"score": 0.00123457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 8,
+			"score": 0.00085242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 10,
+			"score": 0.00077250
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 15,
+			"score": 0.00055359
+		}
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 31,
+			"score": 0.00316294
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 53,
+			"score": 0.00183836
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 4,
+			"score": 0.00123457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 8,
+			"score": 0.00085242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 9,
+			"score": 0.00069525
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 13,
+			"score": 0.00047978
+		}
+	],
+	"r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2515,
+			"score": 0.08723552
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 773,
+			"score": 0.08236548
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1654,
+			"score": 0.06104222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 504,
+			"score": 0.05142332
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 583,
+			"score": 0.04503669
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 130,
+			"score": 0.04012346
+		}
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 7,
+			"score": 0.13207547
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2470,
+			"score": 0.08567464
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 760,
+			"score": 0.08098029
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1586,
+			"score": 0.05853262
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 419,
+			"score": 0.04275074
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 547,
+			"score": 0.04225570
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 130,
+			"score": 0.04012346
+		}
+	],
+	"ra re ri ro ru": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2116,
+			"score": 0.07339577
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 630,
+			"score": 0.06712840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1414,
+			"score": 0.05218482
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 370,
+			"score": 0.03775125
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 115,
+			"score": 0.03549383
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 409,
+			"score": 0.03159521
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 1,
+			"score": 0.01886792
+		}
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 78,
+			"score": 0.00795837
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 65,
+			"score": 0.00239888
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 27,
+			"score": 0.00208575
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 11,
+			"score": 0.00117208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 32,
+			"score": 0.00110995
+		}
+	],
+	"s": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 6,
+			"score": 0.11320755
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1175,
+			"score": 0.09076864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 2518,
+			"score": 0.08733958
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2321,
+			"score": 0.08565840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 724,
+			"score": 0.07714438
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 239,
+			"score": 0.07376543
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 498,
+			"score": 0.05081114
+		}
+	],
+	"s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 14,
+			"score": 0.26415094
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2350,
+			"score": 0.25039957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 6585,
+			"score": 0.24302480
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 6814,
+			"score": 0.23635102
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 2941,
+			"score": 0.22719197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 732,
+			"score": 0.22592593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1852,
+			"score": 0.18896031
+		}
+	],
+	"s t u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 7284,
+			"score": 0.26882197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 869,
+			"score": 0.26820988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2512,
+			"score": 0.26766116
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3438,
+			"score": 0.26558517
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 14,
+			"score": 0.26415094
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 7569,
+			"score": 0.26253902
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1928,
+			"score": 0.19671462
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 8459,
+			"score": 0.31218630
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 4007,
+			"score": 0.30954036
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2830,
+			"score": 0.30154502
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 8583,
+			"score": 0.29771072
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 957,
+			"score": 0.29537037
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 14,
+			"score": 0.26415094
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2127,
+			"score": 0.21701867
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1551,
+			"score": 0.05379813
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 624,
+			"score": 0.04820394
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 145,
+			"score": 0.04475309
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 919,
+			"score": 0.03391645
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 312,
+			"score": 0.03183349
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 200,
+			"score": 0.02131060
+		}
+	],
+	"sa se si so su": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1685,
+			"score": 0.06218630
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1769,
+			"score": 0.06135969
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 743,
+			"score": 0.05739668
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 158,
+			"score": 0.04876543
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 376,
+			"score": 0.04006393
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 337,
+			"score": 0.03438425
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 3,
+			"score": 0.05660377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 516,
+			"score": 0.05498135
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1399,
+			"score": 0.05163124
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 543,
+			"score": 0.04194670
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 963,
+			"score": 0.03340271
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 94,
+			"score": 0.02901235
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 181,
+			"score": 0.01846750
+		}
+	],
+	"t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1626,
+			"score": 0.17325519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4264,
+			"score": 0.15736640
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 493,
+			"score": 0.15216049
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 8,
+			"score": 0.15094340
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 4296,
+			"score": 0.14901145
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1354,
+			"score": 0.13814917
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1766,
+			"score": 0.13642333
+		}
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 3440,
+			"score": 0.12695601
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 377,
+			"score": 0.11635802
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 3054,
+			"score": 0.10593132
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1007,
+			"score": 0.10274462
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 914,
+			"score": 0.09738945
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1245,
+			"score": 0.09617613
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		}
+	],
+	"ta te ti to tu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1294,
+			"score": 0.04775613
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 142,
+			"score": 0.04382716
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1170,
+			"score": 0.04058273
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 2,
+			"score": 0.03773585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 343,
+			"score": 0.03654768
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 356,
+			"score": 0.03632282
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 367,
+			"score": 0.02835071
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/index.html",
+			"count": 4,
+			"score": 0.07547170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 707,
+			"score": 0.07533298
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1233,
+			"score": 0.04276795
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 514,
+			"score": 0.03970645
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 116,
+			"score": 0.03580247
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 347,
+			"score": 0.03540455
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 821,
+			"score": 0.03029968
+		}
+	],
+	"u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 137,
+			"score": 0.04228395
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 497,
+			"score": 0.03839320
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 755,
+			"score": 0.02618800
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 699,
+			"score": 0.02579717
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 162,
+			"score": 0.01726159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 76,
+			"score": 0.00775431
+		}
+	],
+	"u v": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 615,
+			"score": 0.04750869
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 153,
+			"score": 0.04722222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1049,
+			"score": 0.03871420
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 983,
+			"score": 0.03409643
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 233,
+			"score": 0.02482685
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 114,
+			"score": 0.01163147
+		}
+	],
+	"u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1066,
+			"score": 0.08234840
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 225,
+			"score": 0.06944444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1874,
+			"score": 0.06916150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1769,
+			"score": 0.06135969
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 480,
+			"score": 0.05114544
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 275,
+			"score": 0.02805836
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1075,
+			"score": 0.08304365
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1903,
+			"score": 0.07023177
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 225,
+			"score": 0.06944444
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1801,
+			"score": 0.06246965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 483,
+			"score": 0.05146510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 277,
+			"score": 0.02826242
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 155,
+			"score": 0.01197374
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 10,
+			"score": 0.00036906
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2,
+			"score": 0.00020406
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1,
+			"score": 0.00003469
+		}
+	],
+	"ua ue ui uo uu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 153,
+			"score": 0.01181924
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 6,
+			"score": 0.00022143
+		}
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 136,
+			"score": 0.04197531
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 340,
+			"score": 0.02626497
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 753,
+			"score": 0.02611863
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 684,
+			"score": 0.02524358
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 162,
+			"score": 0.01726159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 74,
+			"score": 0.00755025
+		}
+	],
+	"v": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 350,
+			"score": 0.01291704
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 118,
+			"score": 0.00911549
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 228,
+			"score": 0.00790843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 71,
+			"score": 0.00756526
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 16,
+			"score": 0.00493827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 38,
+			"score": 0.00387716
+		}
+	],
+	"v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 569,
+			"score": 0.04395520
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 1175,
+			"score": 0.04336433
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1014,
+			"score": 0.03517170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 318,
+			"score": 0.03388386
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 88,
+			"score": 0.02716049
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 199,
+			"score": 0.02030405
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 348,
+			"score": 0.01284322
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 226,
+			"score": 0.00783906
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 98,
+			"score": 0.00757049
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 68,
+			"score": 0.00724560
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 16,
+			"score": 0.00493827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 30,
+			"score": 0.00306091
+		}
+	],
+	"va ve vi vo vu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 349,
+			"score": 0.01288013
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 118,
+			"score": 0.00911549
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 226,
+			"score": 0.00783906
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 68,
+			"score": 0.00724560
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 16,
+			"score": 0.00493827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 31,
+			"score": 0.00316294
+		}
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 20,
+			"score": 0.00154500
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 8,
+			"score": 0.00081624
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3,
+			"score": 0.00031966
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 2,
+			"score": 0.00007381
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1,
+			"score": 0.00003469
+		}
+	],
+	"w": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 445,
+			"score": 0.03437621
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 790,
+			"score": 0.02915559
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 228,
+			"score": 0.02429409
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 671,
+			"score": 0.02327437
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 71,
+			"score": 0.02191358
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 159,
+			"score": 0.01622283
+		}
+	],
+	"w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 451,
+			"score": 0.03483971
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 825,
+			"score": 0.03044730
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 786,
+			"score": 0.02726327
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 247,
+			"score": 0.02631859
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 72,
+			"score": 0.02222222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 161,
+			"score": 0.01642690
+		}
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 401,
+			"score": 0.03097721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 689,
+			"score": 0.02542811
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 211,
+			"score": 0.02248269
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 618,
+			"score": 0.02143600
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 65,
+			"score": 0.02006173
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 141,
+			"score": 0.01438629
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 340,
+			"score": 0.02626497
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 506,
+			"score": 0.01867434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 155,
+			"score": 0.01651572
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 427,
+			"score": 0.01481096
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 46,
+			"score": 0.01419753
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 108,
+			"score": 0.01101928
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 98,
+			"score": 0.00361677
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 42,
+			"score": 0.00324450
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 6,
+			"score": 0.00185185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 18,
+			"score": 0.00183655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 17,
+			"score": 0.00181140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 52,
+			"score": 0.00180368
+		}
+	],
+	"x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 115,
+			"score": 0.00398890
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 19,
+			"score": 0.00202451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 35,
+			"score": 0.00129170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 6,
+			"score": 0.00046350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc475.html",
+			"count": 1,
+			"score": 0.00030864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2,
+			"score": 0.00020406
+		}
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 33,
+			"score": 0.00114464
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 8,
+			"score": 0.00085242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 9,
+			"score": 0.00033215
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3,
+			"score": 0.00023175
+		}
+	],
+	"xa xe xi xo xu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 14,
+			"score": 0.00048561
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4,
+			"score": 0.00014762
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1,
+			"score": 0.00007725
+		}
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 49,
+			"score": 0.00169962
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 7,
+			"score": 0.00025834
+		}
+	],
+	"y": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 32,
+			"score": 0.00110995
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 29,
+			"score": 0.00107027
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 9,
+			"score": 0.00069525
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3,
+			"score": 0.00031966
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2,
+			"score": 0.00020406
+		}
+	],
+	"y z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 122,
+			"score": 0.00450251
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 45,
+			"score": 0.00156087
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 15,
+			"score": 0.00153046
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 18,
+			"score": 0.00139050
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 4,
+			"score": 0.00042621
+		}
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 30,
+			"score": 0.00104058
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 6,
+			"score": 0.00046350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 10,
+			"score": 0.00036906
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 2,
+			"score": 0.00021311
+		}
+	],
+	"ya ye yi yo yu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 31,
+			"score": 0.00107527
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 24,
+			"score": 0.00088574
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 8,
+			"score": 0.00061800
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 3,
+			"score": 0.00031966
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1,
+			"score": 0.00010203
+		}
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 17,
+			"score": 0.00062740
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 3,
+			"score": 0.00023175
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1,
+			"score": 0.00010655
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1,
+			"score": 0.00010203
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 1,
+			"score": 0.00003469
+		}
+	],
+	"z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 93,
+			"score": 0.00343224
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 13,
+			"score": 0.00132640
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 9,
+			"score": 0.00069525
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 13,
+			"score": 0.00045092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1,
+			"score": 0.00010655
+		}
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 78,
+			"score": 0.00287865
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 12,
+			"score": 0.00122436
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 6,
+			"score": 0.00046350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 13,
+			"score": 0.00045092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1,
+			"score": 0.00010655
+		}
+	],
+	"za ze zi zo zu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 7,
+			"score": 0.00054075
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc7231.html",
+			"count": 13,
+			"score": 0.00045092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 2,
+			"score": 0.00020406
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 4,
+			"score": 0.00014762
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6838.html",
+			"count": 1,
+			"score": 0.00010655
+		}
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc5646.html",
+			"count": 11,
+			"score": 0.00040596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6805.html",
+			"count": 1,
+			"score": 0.00010203
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/rfcs/rfc6797.html",
+			"count": 1,
+			"score": 0.00007725
+		}
+	]
+}

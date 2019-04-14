@@ -1,0 +1,5146 @@
+{
+	"a": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 21837,
+			"score": 0.11650625
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1886,
+			"score": 0.11313059
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 17694,
+			"score": 0.11240638
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 14104,
+			"score": 0.11208239
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 11721,
+			"score": 0.10917677
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 6587,
+			"score": 0.10407154
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		}
+	],
+	"a b": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 9,
+			"score": 0.21428571
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 26090,
+			"score": 0.16574445
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 30548,
+			"score": 0.16298177
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2628,
+			"score": 0.15763901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 19389,
+			"score": 0.15408150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 16277,
+			"score": 0.15161423
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 9495,
+			"score": 0.15001659
+		}
+	],
+	"a b c": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 13,
+			"score": 0.30952381
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 33992,
+			"score": 0.21594425
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3439,
+			"score": 0.20628637
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 37002,
+			"score": 0.19741560
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 12381,
+			"score": 0.19561405
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 24147,
+			"score": 0.19189262
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 20418,
+			"score": 0.19018611
+		}
+	],
+	"a b c d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 16,
+			"score": 0.38095238
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 39037,
+			"score": 0.24799410
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3915,
+			"score": 0.23483894
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 42323,
+			"score": 0.22580456
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 14242,
+			"score": 0.22501698
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 27781,
+			"score": 0.22077148
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 23448,
+			"score": 0.21840943
+		}
+	],
+	"a b c d e": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 18,
+			"score": 0.42857143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 43458,
+			"score": 0.27607982
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 4469,
+			"score": 0.26807030
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 15929,
+			"score": 0.25167080
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 30550,
+			"score": 0.24277631
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 45464,
+			"score": 0.24256264
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 25302,
+			"score": 0.23567876
+		}
+	],
+	"a b c d e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 18,
+			"score": 0.42857143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 50446,
+			"score": 0.32047316
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5101,
+			"score": 0.30598045
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 18218,
+			"score": 0.28783594
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 36114,
+			"score": 0.28699259
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 51272,
+			"score": 0.27354987
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 29191,
+			"score": 0.27190335
+		}
+	],
+	"a b c d e f g": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 21,
+			"score": 0.50000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 53557,
+			"score": 0.34023671
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5367,
+			"score": 0.32193630
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 19472,
+			"score": 0.30764856
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 38502,
+			"score": 0.30596967
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 54784,
+			"score": 0.29228734
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 30864,
+			"score": 0.28748673
+		}
+	],
+	"a b c d e f g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 22,
+			"score": 0.52380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 59028,
+			"score": 0.37499285
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 69589,
+			"score": 0.37127598
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 39412,
+			"score": 0.36710818
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5955,
+			"score": 0.35720713
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 22460,
+			"score": 0.35485757
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 43320,
+			"score": 0.34425761
+		}
+	],
+	"a b c d e f g h i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 22,
+			"score": 0.52380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 85651,
+			"score": 0.45697106
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 48852,
+			"score": 0.45503828
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 71245,
+			"score": 0.45260496
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 7333,
+			"score": 0.43986563
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 27535,
+			"score": 0.43504021
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 51816,
+			"score": 0.41177406
+		}
+	],
+	"a b c d e f g h i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 22,
+			"score": 0.52380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 87086,
+			"score": 0.46462717
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 49182,
+			"score": 0.45811211
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 71418,
+			"score": 0.45370400
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 7365,
+			"score": 0.44178514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 27840,
+			"score": 0.43985907
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 52284,
+			"score": 0.41549318
+		}
+	],
+	"a b c d e f g h i j k l m n o p q r s t u v w x y z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 187432,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 157411,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 125836,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 107358,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 63293,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 16671,
+			"score": 1.00000000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 42,
+			"score": 1.00000000
+		}
+	],
+	"aa ab ac ad ae af ag ah ai aj ak al am": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3395,
+			"score": 0.02697956
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1605,
+			"score": 0.02535825
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 412,
+			"score": 0.02471357
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3797,
+			"score": 0.02412157
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4196,
+			"score": 0.02238679
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2273,
+			"score": 0.02117215
+		}
+	],
+	"aa ae ai ao au": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 30,
+			"score": 0.00179953
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 218,
+			"score": 0.00173241
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 102,
+			"score": 0.00161155
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 198,
+			"score": 0.00125785
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 213,
+			"score": 0.00113641
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 58,
+			"score": 0.00054025
+		}
+	],
+	"aa ee ii oo uu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 18,
+			"score": 0.00107972
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 23,
+			"score": 0.00018278
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 5,
+			"score": 0.00007900
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7,
+			"score": 0.00006520
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 10,
+			"score": 0.00005335
+		}
+	],
+	"an ao ap aq ar as at au av aw ax ay az": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9352,
+			"score": 0.07431895
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 13576,
+			"score": 0.07243160
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 11362,
+			"score": 0.07218047
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 6766,
+			"score": 0.06302278
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1015,
+			"score": 0.06088417
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 3697,
+			"score": 0.05841088
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		}
+	],
+	"b": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 6,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8396,
+			"score": 0.05333808
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 8711,
+			"score": 0.04647552
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2908,
+			"score": 0.04594505
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 742,
+			"score": 0.04450843
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4556,
+			"score": 0.04243745
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5285,
+			"score": 0.04199911
+		}
+	],
+	"ba bb bc bd be bf bg bh bi bj bk bl bm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5191,
+			"score": 0.03297736
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1752,
+			"score": 0.02768079
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5081,
+			"score": 0.02710850
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2598,
+			"score": 0.02419941
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 396,
+			"score": 0.02375382
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2837,
+			"score": 0.02254522
+		}
+	],
+	"ba be bi bo bu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 6330,
+			"score": 0.04021320
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2334,
+			"score": 0.03687612
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 6828,
+			"score": 0.03642921
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3574,
+			"score": 0.03329049
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 521,
+			"score": 0.03125187
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3703,
+			"score": 0.02942719
+		}
+	],
+	"bn bo bp bq br bs bt bu bv bw bx by bz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 6,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3194,
+			"score": 0.02029083
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 333,
+			"score": 0.01997481
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2445,
+			"score": 0.01943005
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3627,
+			"score": 0.01935102
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1949,
+			"score": 0.01815421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1138,
+			"score": 0.01797987
+		}
+	],
+	"c": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 7902,
+			"score": 0.05019980
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 811,
+			"score": 0.04864735
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2886,
+			"score": 0.04559746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4141,
+			"score": 0.03857188
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4758,
+			"score": 0.03781112
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 6454,
+			"score": 0.03443382
+		}
+	],
+	"c d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 7,
+			"score": 0.16666667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 12947,
+			"score": 0.08224965
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1287,
+			"score": 0.07719993
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4747,
+			"score": 0.07500039
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7171,
+			"score": 0.06679521
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 8392,
+			"score": 0.06668998
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 11775,
+			"score": 0.06282278
+		}
+	],
+	"ca cb cc cd ce cf cg ch ci cj ck cl cm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4013,
+			"score": 0.02549377
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1316,
+			"score": 0.02079219
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2380,
+			"score": 0.01891351
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1984,
+			"score": 0.01848023
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 284,
+			"score": 0.01703557
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2844,
+			"score": 0.01517350
+		}
+	],
+	"ca ce ci co cu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 627,
+			"score": 0.03761022
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5710,
+			"score": 0.03627447
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2217,
+			"score": 0.03502757
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3028,
+			"score": 0.02820470
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3289,
+			"score": 0.02613719
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4758,
+			"score": 0.02538521
+		}
+	],
+	"cn co cp cq cr cs ct cu cv cw cx cy cz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 514,
+			"score": 0.03083198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1559,
+			"score": 0.02463148
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3847,
+			"score": 0.02443921
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2150,
+			"score": 0.02002645
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3605,
+			"score": 0.01923364
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2373,
+			"score": 0.01885788
+		}
+	],
+	"d": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5045,
+			"score": 0.03204986
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1861,
+			"score": 0.02940294
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3634,
+			"score": 0.02887886
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 476,
+			"score": 0.02855258
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5321,
+			"score": 0.02838896
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3030,
+			"score": 0.02822333
+		}
+	],
+	"d e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 5,
+			"score": 0.11904762
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 16454,
+			"score": 0.10452891
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1662,
+			"score": 0.09969408
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 11967,
+			"score": 0.09509997
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 5837,
+			"score": 0.09222189
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8773,
+			"score": 0.08171725
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14270,
+			"score": 0.07613428
+		}
+	],
+	"da db dc dd de df dg dh di dj dk dl dm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3602,
+			"score": 0.02288277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 326,
+			"score": 0.01955492
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2360,
+			"score": 0.01875457
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1103,
+			"score": 0.01742689
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2812,
+			"score": 0.01500277
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1477,
+			"score": 0.01375771
+		}
+	],
+	"da de di do du": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4895,
+			"score": 0.03109694
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1772,
+			"score": 0.02799678
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 453,
+			"score": 0.02717294
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4715,
+			"score": 0.02515579
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3158,
+			"score": 0.02509616
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2659,
+			"score": 0.02476760
+		}
+	],
+	"dn do dp dq dr ds dt du dv dw dx dy dz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1547,
+			"score": 0.01440973
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2506,
+			"score": 0.01337018
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 752,
+			"score": 0.01188125
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1268,
+			"score": 0.01007661
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1441,
+			"score": 0.00915438
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 144,
+			"score": 0.00863775
+		}
+	],
+	"e": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 554,
+			"score": 0.03323136
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4421,
+			"score": 0.02808571
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1687,
+			"score": 0.02665382
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2769,
+			"score": 0.02200483
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1854,
+			"score": 0.01726932
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3141,
+			"score": 0.01675808
+		}
+	],
+	"e f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 11409,
+			"score": 0.07247905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1186,
+			"score": 0.07114150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 8333,
+			"score": 0.06622111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 3976,
+			"score": 0.06281895
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5743,
+			"score": 0.05349392
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 8949,
+			"score": 0.04774532
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		}
+	],
+	"e f g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 15964,
+			"score": 0.14869875
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 27266,
+			"score": 0.14547142
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 6,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 8218,
+			"score": 0.12984058
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 19991,
+			"score": 0.12699875
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 15539,
+			"score": 0.12348612
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2040,
+			"score": 0.12236818
+		}
+	],
+	"ea eb ec ed ee ef eg eh ei ej ek el em": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 190,
+			"score": 0.01139704
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1564,
+			"score": 0.00993577
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1143,
+			"score": 0.00908325
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 534,
+			"score": 0.00843695
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 505,
+			"score": 0.00470389
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 780,
+			"score": 0.00416151
+		}
+	],
+	"ea ee ei eo eu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1028,
+			"score": 0.00653067
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 656,
+			"score": 0.00521313
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 284,
+			"score": 0.00448707
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 54,
+			"score": 0.00323916
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 233,
+			"score": 0.00217031
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 336,
+			"score": 0.00179265
+		}
+	],
+	"en eo ep eq er es et eu ev ew ex ey ez": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 340,
+			"score": 0.02039470
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2823,
+			"score": 0.01793394
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1118,
+			"score": 0.01766388
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1604,
+			"score": 0.01274675
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2339,
+			"score": 0.01247919
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1325,
+			"score": 0.01234188
+		}
+	],
+	"f": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 6988,
+			"score": 0.04439334
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5564,
+			"score": 0.04421628
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 632,
+			"score": 0.03791014
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3889,
+			"score": 0.03622459
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2289,
+			"score": 0.03616514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5808,
+			"score": 0.03098724
+		}
+	],
+	"f g h i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 23880,
+			"score": 0.22243335
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 41622,
+			"score": 0.22206454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 11911,
+			"score": 0.18818827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 27960,
+			"score": 0.17762418
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2896,
+			"score": 0.17371483
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 21734,
+			"score": 0.17271687
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		}
+	],
+	"fa fb fc fd fe ff fg fh fi fj fk fl fm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2365,
+			"score": 0.01879430
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2545,
+			"score": 0.01616787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1616,
+			"score": 0.01505244
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2491,
+			"score": 0.01329015
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 711,
+			"score": 0.01123347
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 184,
+			"score": 0.01103713
+		}
+	],
+	"fa fe fi fo fu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5143,
+			"score": 0.03267243
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3915,
+			"score": 0.03111192
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1909,
+			"score": 0.03016131
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 498,
+			"score": 0.02987223
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2890,
+			"score": 0.02691928
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4680,
+			"score": 0.02496906
+		}
+	],
+	"fn fo fp fq fr fs ft fu fv fw fx fy fz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4387,
+			"score": 0.02786972
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 435,
+			"score": 0.02609322
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3188,
+			"score": 0.02533456
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1564,
+			"score": 0.02471047
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2261,
+			"score": 0.02106038
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3306,
+			"score": 0.01763840
+		}
+	],
+	"g": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1254,
+			"score": 0.01981262
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3111,
+			"score": 0.01976355
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2388,
+			"score": 0.01897708
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3512,
+			"score": 0.01873746
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 266,
+			"score": 0.01595585
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1673,
+			"score": 0.01558338
+		}
+	],
+	"g h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 18317,
+			"score": 0.09772611
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 10221,
+			"score": 0.09520483
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4242,
+			"score": 0.06702163
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 7206,
+			"score": 0.05726501
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8582,
+			"score": 0.05451970
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 854,
+			"score": 0.05122668
+		}
+	],
+	"g h i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 34379,
+			"score": 0.18342119
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 19661,
+			"score": 0.18313493
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 9317,
+			"score": 0.14720427
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2232,
+			"score": 0.13388519
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 20799,
+			"score": 0.13213181
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 15702,
+			"score": 0.12478146
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		}
+	],
+	"g h i j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 41638,
+			"score": 0.22214990
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 23263,
+			"score": 0.21668623
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 11051,
+			"score": 0.17460067
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 20821,
+			"score": 0.16546139
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2659,
+			"score": 0.15949853
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 24824,
+			"score": 0.15770181
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 5,
+			"score": 0.11904762
+		}
+	],
+	"ga gb gc gd ge gf gg gh gi gj gk gl gm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1655,
+			"score": 0.01051388
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 554,
+			"score": 0.00875294
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1329,
+			"score": 0.00709057
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 745,
+			"score": 0.00693940
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 838,
+			"score": 0.00665946
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 72,
+			"score": 0.00431888
+		}
+	],
+	"ga ge gi go gu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 877,
+			"score": 0.01385619
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2518,
+			"score": 0.01343421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 206,
+			"score": 0.01235679
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1879,
+			"score": 0.01193690
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1202,
+			"score": 0.01119618
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1356,
+			"score": 0.01077593
+		}
+	],
+	"gn go gp gq gr gs gt gu gv gw gx gy gz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1545,
+			"score": 0.01227789
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2182,
+			"score": 0.01164156
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 193,
+			"score": 0.01157699
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 698,
+			"score": 0.01102808
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1455,
+			"score": 0.00924332
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 925,
+			"score": 0.00861603
+		}
+	],
+	"h": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8548,
+			"score": 0.07962145
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14805,
+			"score": 0.07898865
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2988,
+			"score": 0.04720901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4818,
+			"score": 0.03828793
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 588,
+			"score": 0.03527083
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5471,
+			"score": 0.03475615
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"h i j k l m n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 52854,
+			"score": 0.28199027
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 29147,
+			"score": 0.27149351
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 14040,
+			"score": 0.22182548
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 27889,
+			"score": 0.22162974
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3377,
+			"score": 0.20256733
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 31475,
+			"score": 0.19995426
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		}
+	],
+	"ha hb hc hd he hf hg hh hi hj hk hl hm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 13361,
+			"score": 0.07128452
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7076,
+			"score": 0.06591032
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2619,
+			"score": 0.04137898
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 497,
+			"score": 0.02981225
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3734,
+			"score": 0.02967354
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4494,
+			"score": 0.02854947
+		}
+	],
+	"ha he hi ho hu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8512,
+			"score": 0.07928613
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14787,
+			"score": 0.07889261
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2953,
+			"score": 0.04665603
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4789,
+			"score": 0.03805747
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 571,
+			"score": 0.03425109
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5238,
+			"score": 0.03327595
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"hn ho hp hq hr hs ht hu hv hw hx hy hz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1466,
+			"score": 0.01365525
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1084,
+			"score": 0.00861439
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1444,
+			"score": 0.00770413
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 967,
+			"score": 0.00614315
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 365,
+			"score": 0.00576683
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 91,
+			"score": 0.00545858
+		}
+	],
+	"i": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 9440,
+			"score": 0.08793010
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 16062,
+			"score": 0.08569508
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1378,
+			"score": 0.08265851
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 5075,
+			"score": 0.08018264
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 12217,
+			"score": 0.07761211
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 8496,
+			"score": 0.06751645
+		}
+	],
+	"i j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 17497,
+			"score": 0.09335119
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 9770,
+			"score": 0.09100393
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 5380,
+			"score": 0.08500150
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1410,
+			"score": 0.08457801
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 12390,
+			"score": 0.07871114
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 8964,
+			"score": 0.07123558
+		}
+	],
+	"i j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 23321,
+			"score": 0.12442379
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 13042,
+			"score": 0.12148140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1805,
+			"score": 0.10827185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 13615,
+			"score": 0.10819638
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 6809,
+			"score": 0.10757904
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 16242,
+			"score": 0.10318212
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"i j k l m n o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5011,
+			"score": 0.30058185
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 46771,
+			"score": 0.29712663
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 18487,
+			"score": 0.29208601
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 36673,
+			"score": 0.29143488
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 54179,
+			"score": 0.28905950
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 29368,
+			"score": 0.27355204
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 8,
+			"score": 0.19047619
+		}
+	],
+	"ia ib ic id ie if ig ih ii ij ik il im": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 177,
+			"score": 0.01061724
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 540,
+			"score": 0.00853175
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1154,
+			"score": 0.00733113
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1343,
+			"score": 0.00716527
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 574,
+			"score": 0.00534660
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 558,
+			"score": 0.00443434
+		}
+	],
+	"ia ie ii io iu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 18,
+			"score": 0.00107972
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 14,
+			"score": 0.00022119
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 17,
+			"score": 0.00013510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 9,
+			"score": 0.00008383
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5,
+			"score": 0.00002668
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4,
+			"score": 0.00002541
+		}
+	],
+	"in io ip iq ir is it iu iv iw ix iy iz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1154,
+			"score": 0.06922200
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 10072,
+			"score": 0.06398536
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 3817,
+			"score": 0.06030683
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5872,
+			"score": 0.05469550
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 8305,
+			"score": 0.04430940
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5047,
+			"score": 0.04010776
+		}
+	],
+	"j": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1435,
+			"score": 0.00765611
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 305,
+			"score": 0.00481886
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 468,
+			"score": 0.00371913
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 330,
+			"score": 0.00307383
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 32,
+			"score": 0.00191950
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 173,
+			"score": 0.00109903
+		}
+	],
+	"j k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5119,
+			"score": 0.04067993
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 7259,
+			"score": 0.03872871
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3602,
+			"score": 0.03355130
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1734,
+			"score": 0.02739639
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 427,
+			"score": 0.02561334
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4025,
+			"score": 0.02557000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"j k l m n o p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 4132,
+			"score": 0.24785556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 31040,
+			"score": 0.24667027
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 37975,
+			"score": 0.24124744
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 14892,
+			"score": 0.23528668
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 42056,
+			"score": 0.22438004
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 22328,
+			"score": 0.20797705
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 8,
+			"score": 0.19047619
+		}
+	],
+	"ja jb jc jd je jf jg jh ji jj jk jl jm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 377,
+			"score": 0.00201140
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 79,
+			"score": 0.00073586
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 46,
+			"score": 0.00072678
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 66,
+			"score": 0.00052449
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 8,
+			"score": 0.00047988
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 47,
+			"score": 0.00029858
+		}
+	],
+	"ja je ji jo ju": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1424,
+			"score": 0.00759742
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 298,
+			"score": 0.00470826
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 468,
+			"score": 0.00371913
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 329,
+			"score": 0.00306451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 29,
+			"score": 0.00173955
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 164,
+			"score": 0.00104186
+		}
+	],
+	"jn jo jp jq jr js jt ju jv jw jx jy jz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1048,
+			"score": 0.00559136
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 253,
+			"score": 0.00399728
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 402,
+			"score": 0.00319463
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 250,
+			"score": 0.00232866
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 24,
+			"score": 0.00143963
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 117,
+			"score": 0.00074328
+		}
+	],
+	"k": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1229,
+			"score": 0.00655704
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 547,
+			"score": 0.00509510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 547,
+			"score": 0.00434693
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 51,
+			"score": 0.00305920
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 190,
+			"score": 0.00300191
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 439,
+			"score": 0.00278888
+		}
+	],
+	"k l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4651,
+			"score": 0.03696081
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5824,
+			"score": 0.03107260
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3272,
+			"score": 0.03047747
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3852,
+			"score": 0.02447097
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 395,
+			"score": 0.02369384
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1429,
+			"score": 0.02257754
+		}
+	],
+	"k l m n o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 23651,
+			"score": 0.18795098
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 28871,
+			"score": 0.18341158
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 31565,
+			"score": 0.16840774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 7,
+			"score": 0.16666667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2759,
+			"score": 0.16549697
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 10024,
+			"score": 0.15837454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 16893,
+			"score": 0.15735204
+		}
+	],
+	"k l m n o p q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 61250,
+			"score": 0.48674465
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 73801,
+			"score": 0.46884271
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 7739,
+			"score": 0.46421930
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 28632,
+			"score": 0.45237230
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 79031,
+			"score": 0.42165159
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 45084,
+			"score": 0.41994076
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 16,
+			"score": 0.38095238
+		}
+	],
+	"ka kb kc kd ke kf kg kh ki kj kk kl km": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 43,
+			"score": 0.00257933
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 416,
+			"score": 0.00221947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 202,
+			"score": 0.00188156
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 202,
+			"score": 0.00160526
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 231,
+			"score": 0.00146750
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 91,
+			"score": 0.00143776
+		}
+	],
+	"ka ke ki ko ku": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 43,
+			"score": 0.00257933
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 416,
+			"score": 0.00221947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 200,
+			"score": 0.00186293
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 217,
+			"score": 0.00172447
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 243,
+			"score": 0.00154373
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 88,
+			"score": 0.00139036
+		}
+	],
+	"kn ko kp kq kr ks kt ku kv kw kx ky kz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 813,
+			"score": 0.00433757
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 324,
+			"score": 0.00301794
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 345,
+			"score": 0.00274166
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 99,
+			"score": 0.00156415
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 207,
+			"score": 0.00131503
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 8,
+			"score": 0.00047988
+		}
+	],
+	"l": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4104,
+			"score": 0.03261388
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2725,
+			"score": 0.02538237
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4595,
+			"score": 0.02451556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3413,
+			"score": 0.02168209
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 344,
+			"score": 0.02063463
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1239,
+			"score": 0.01957562
+		}
+	],
+	"la lb lc ld le lf lg lh li lj lk ll lm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2777,
+			"score": 0.02206841
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2038,
+			"score": 0.01898322
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2751,
+			"score": 0.01747654
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 287,
+			"score": 0.01721552
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3087,
+			"score": 0.01646997
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1011,
+			"score": 0.01597333
+		}
+	],
+	"la le li lo lu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4095,
+			"score": 0.03254236
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2714,
+			"score": 0.02527990
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4582,
+			"score": 0.02444620
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3380,
+			"score": 0.02147245
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 342,
+			"score": 0.02051467
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1234,
+			"score": 0.01949663
+		}
+	],
+	"ln lo lp lq lr ls lt lu lv lw lx ly lz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1325,
+			"score": 0.01052958
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1506,
+			"score": 0.00803491
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 686,
+			"score": 0.00638984
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 658,
+			"score": 0.00418014
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 228,
+			"score": 0.00360229
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 57,
+			"score": 0.00341911
+		}
+	],
+	"m": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 10571,
+			"score": 0.05639912
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5250,
+			"score": 0.04890181
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 6151,
+			"score": 0.04888108
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2359,
+			"score": 0.03727110
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5756,
+			"score": 0.03656669
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 574,
+			"score": 0.03443105
+		}
+	],
+	"m n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14728,
+			"score": 0.07857783
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9456,
+			"score": 0.07514543
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7557,
+			"score": 0.07039066
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4243,
+			"score": 0.06703743
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 9762,
+			"score": 0.06201600
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 984,
+			"score": 0.05902465
+		}
+	],
+	"m n o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 25019,
+			"score": 0.15894061
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 19000,
+			"score": 0.15099018
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 6,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2364,
+			"score": 0.14180313
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 25741,
+			"score": 0.13733514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 8595,
+			"score": 0.13579701
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 13621,
+			"score": 0.12687457
+		}
+	],
+	"m n o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 30529,
+			"score": 0.19394451
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3206,
+			"score": 0.19231000
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 11678,
+			"score": 0.18450698
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 23058,
+			"score": 0.18323850
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 7,
+			"score": 0.16666667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 30858,
+			"score": 0.16463571
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 16326,
+			"score": 0.15207064
+		}
+	],
+	"m n o p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3705,
+			"score": 0.22224222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 33950,
+			"score": 0.21567743
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 13158,
+			"score": 0.20789029
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 25921,
+			"score": 0.20599034
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 34797,
+			"score": 0.18565133
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 18726,
+			"score": 0.17442575
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 7,
+			"score": 0.16666667
+		}
+	],
+	"ma mb mc md me mf mg mh mi mj mk ml mm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5512,
+			"score": 0.02940800
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3455,
+			"score": 0.02745637
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2809,
+			"score": 0.02616479
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 399,
+			"score": 0.02393378
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1479,
+			"score": 0.02336751
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3085,
+			"score": 0.01959838
+		}
+	],
+	"ma me mi mo mu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 7377,
+			"score": 0.03935827
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4865,
+			"score": 0.03866143
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3772,
+			"score": 0.03513478
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5423,
+			"score": 0.03445121
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2135,
+			"score": 0.03373201
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 538,
+			"score": 0.03227161
+		}
+	],
+	"mn mo mp mq mr ms mt mu mv mw mx my mz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5059,
+			"score": 0.02699112
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2440,
+			"score": 0.02272770
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2696,
+			"score": 0.02142471
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2636,
+			"score": 0.01674597
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 877,
+			"score": 0.01385619
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 175,
+			"score": 0.01049727
+		}
+	],
+	"n": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1884,
+			"score": 0.02976632
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3305,
+			"score": 0.02626434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4006,
+			"score": 0.02544930
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 410,
+			"score": 0.02459361
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4157,
+			"score": 0.02217871
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2307,
+			"score": 0.02148885
+		}
+	],
+	"na nb nc nd ne nf ng nh ni nj nk nl nm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1852,
+			"score": 0.01176538
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 589,
+			"score": 0.00930593
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1117,
+			"score": 0.00887663
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 132,
+			"score": 0.00791794
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1346,
+			"score": 0.00718127
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 679,
+			"score": 0.00632463
+		}
+	],
+	"na ne ni no nu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1877,
+			"score": 0.02965573
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3305,
+			"score": 0.02626434
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4002,
+			"score": 0.02542389
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 409,
+			"score": 0.02453362
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 4154,
+			"score": 0.02216270
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2303,
+			"score": 0.02145159
+		}
+	],
+	"nn no np nq nr ns nt nu nv nw nx ny nz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1292,
+			"score": 0.02041300
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2188,
+			"score": 0.01738771
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 278,
+			"score": 0.01667566
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1628,
+			"score": 0.01516422
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2811,
+			"score": 0.01499744
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2150,
+			"score": 0.01365851
+		}
+	],
+	"o": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 6,
+			"score": 0.14285714
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 15257,
+			"score": 0.09692461
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1380,
+			"score": 0.08277848
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9544,
+			"score": 0.07584475
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4352,
+			"score": 0.06875958
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 11013,
+			"score": 0.05875731
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 6064,
+			"score": 0.05648391
+		}
+	],
+	"o p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 7,
+			"score": 0.16666667
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2222,
+			"score": 0.13328535
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 20767,
+			"score": 0.13192852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 7435,
+			"score": 0.11746955
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 13602,
+			"score": 0.10809307
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 16130,
+			"score": 0.08605788
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8769,
+			"score": 0.08167999
+		}
+	],
+	"o p q r s t u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 6665,
+			"score": 0.39979605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 61669,
+			"score": 0.39177059
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 48532,
+			"score": 0.38567659
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 24150,
+			"score": 0.38155878
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 15,
+			"score": 0.35714286
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 35800,
+			"score": 0.33346374
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 60813,
+			"score": 0.32445367
+		}
+	],
+	"oa ob oc od oe of og oh oi oj ok ol om": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8956,
+			"score": 0.05689564
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 810,
+			"score": 0.04858737
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5149,
+			"score": 0.04091834
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2578,
+			"score": 0.04073120
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3365,
+			"score": 0.03134373
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5673,
+			"score": 0.03026698
+		}
+	],
+	"oa oe oi oo ou": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1194,
+			"score": 0.00637031
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 632,
+			"score": 0.00588685
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 552,
+			"score": 0.00438666
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 207,
+			"score": 0.00327050
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 447,
+			"score": 0.00283970
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 35,
+			"score": 0.00209945
+		}
+	],
+	"on oo op oq or os ot ou ov ow ox oy oz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 2,
+			"score": 0.04761905
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 6296,
+			"score": 0.03999720
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 570,
+			"score": 0.03419111
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3813,
+			"score": 0.03030134
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5277,
+			"score": 0.02815421
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1767,
+			"score": 0.02791778
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2698,
+			"score": 0.02513087
+		}
+	],
+	"p": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 842,
+			"score": 0.05050687
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 3083,
+			"score": 0.04870997
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5510,
+			"score": 0.03500391
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4058,
+			"score": 0.03224832
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5117,
+			"score": 0.02730057
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2705,
+			"score": 0.02519607
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"p q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1341,
+			"score": 0.08043909
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4563,
+			"score": 0.07209328
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8931,
+			"score": 0.05673682
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 6921,
+			"score": 0.05500016
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 9056,
+			"score": 0.04831619
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5105,
+			"score": 0.04755118
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"p q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 37599,
+			"score": 0.29879367
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 4980,
+			"score": 0.29872233
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 18608,
+			"score": 0.29399776
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 44930,
+			"score": 0.28543113
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 28191,
+			"score": 0.26258872
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 47466,
+			"score": 0.25324384
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 9,
+			"score": 0.21428571
+		}
+	],
+	"pa pb pc pd pe pf pg ph pi pj pk pl pm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1683,
+			"score": 0.02659062
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 362,
+			"score": 0.02171435
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2257,
+			"score": 0.01793604
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2809,
+			"score": 0.01784500
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2422,
+			"score": 0.01292202
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1311,
+			"score": 0.01221148
+		}
+	],
+	"pa pe pi po pu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1646,
+			"score": 0.02600604
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 415,
+			"score": 0.02489353
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2567,
+			"score": 0.02039957
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3473,
+			"score": 0.01852939
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2735,
+			"score": 0.01737490
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1704,
+			"score": 0.01587213
+		}
+	],
+	"pn po pp pq pr ps pt pu pv pw px py pz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 479,
+			"score": 0.02873253
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1396,
+			"score": 0.02205615
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2692,
+			"score": 0.01710173
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2691,
+			"score": 0.01435721
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1799,
+			"score": 0.01429639
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1392,
+			"score": 0.01296596
+		}
+	],
+	"q": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 280,
+			"score": 0.00260810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 454,
+			"score": 0.00242221
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 34,
+			"score": 0.00203947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 259,
+			"score": 0.00164537
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 103,
+			"score": 0.00162735
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 135,
+			"score": 0.00107282
+		}
+	],
+	"q r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 499,
+			"score": 0.02993222
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1480,
+			"score": 0.02338331
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2863,
+			"score": 0.02275184
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2400,
+			"score": 0.02235511
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3421,
+			"score": 0.02173292
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3939,
+			"score": 0.02101562
+		}
+	],
+	"q r s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 33541,
+			"score": 0.26654534
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 39420,
+			"score": 0.25042723
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 4138,
+			"score": 0.24821546
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 15525,
+			"score": 0.24528779
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 25486,
+			"score": 0.23739265
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 42349,
+			"score": 0.22594328
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 8,
+			"score": 0.19047619
+		}
+	],
+	"q r s t u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 43062,
+			"score": 0.34220732
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 21528,
+			"score": 0.34013240
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 36084,
+			"score": 0.33610909
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5560,
+			"score": 0.33351329
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 51014,
+			"score": 0.32408154
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 60168,
+			"score": 0.32101242
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 12,
+			"score": 0.28571429
+		}
+	],
+	"qa qb qc qd qe qf qg qh qi qj qk ql qm": [
+	],
+	"qa qe qi qo qu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 280,
+			"score": 0.00260810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 454,
+			"score": 0.00242221
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 34,
+			"score": 0.00203947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 257,
+			"score": 0.00163267
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 103,
+			"score": 0.00162735
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 135,
+			"score": 0.00107282
+		}
+	],
+	"qn qo qp qq qr qs qt qu qv qw qx qy qz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 280,
+			"score": 0.00260810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 454,
+			"score": 0.00242221
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 34,
+			"score": 0.00203947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 257,
+			"score": 0.00163267
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 103,
+			"score": 0.00162735
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 135,
+			"score": 0.00107282
+		}
+	],
+	"r": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 465,
+			"score": 0.02789275
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1377,
+			"score": 0.02175596
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2728,
+			"score": 0.02167901
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3162,
+			"score": 0.02008754
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2120,
+			"score": 0.01974701
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3485,
+			"score": 0.01859341
+		}
+	],
+	"ra rb rc rd re rf rg rh ri rj rk rl rm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 367,
+			"score": 0.02201428
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1148,
+			"score": 0.01813787
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2768,
+			"score": 0.01758454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2127,
+			"score": 0.01690295
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2701,
+			"score": 0.01441056
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1496,
+			"score": 0.01393469
+		}
+	],
+	"ra re ri ro ru": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 460,
+			"score": 0.02759283
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1359,
+			"score": 0.02147157
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2698,
+			"score": 0.02144061
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3131,
+			"score": 0.01989060
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2102,
+			"score": 0.01957935
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3482,
+			"score": 0.01857740
+		}
+	],
+	"rn ro rp rq rr rs rt ru rv rw rx ry rz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 98,
+			"score": 0.00587847
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 623,
+			"score": 0.00580301
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 601,
+			"score": 0.00477606
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 784,
+			"score": 0.00418285
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 221,
+			"score": 0.00349170
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 389,
+			"score": 0.00247124
+		}
+	],
+	"s": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9875,
+			"score": 0.07847516
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 12201,
+			"score": 0.07751047
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4614,
+			"score": 0.07289906
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7701,
+			"score": 0.07173196
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 12891,
+			"score": 0.06877694
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1108,
+			"score": 0.06646272
+		}
+	],
+	"s t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 30678,
+			"score": 0.24379351
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 35999,
+			"score": 0.22869431
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 14045,
+			"score": 0.22190448
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3639,
+			"score": 0.21828325
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 23086,
+			"score": 0.21503754
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 38410,
+			"score": 0.20492765
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 8,
+			"score": 0.19047619
+		}
+	],
+	"s t u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 32067,
+			"score": 0.25483169
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 15235,
+			"score": 0.24070592
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 37481,
+			"score": 0.23810915
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 3944,
+			"score": 0.23657849
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 24631,
+			"score": 0.22942864
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 40744,
+			"score": 0.21738017
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 8,
+			"score": 0.19047619
+		}
+	],
+	"s t u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 40199,
+			"score": 0.31945548
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 20048,
+			"score": 0.31674909
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 33684,
+			"score": 0.31375398
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 5061,
+			"score": 0.30358107
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 47593,
+			"score": 0.30234863
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 56229,
+			"score": 0.29999680
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 12,
+			"score": 0.28571429
+		}
+	],
+	"sa sb sc sd se sf sg sh si sj sk sl sm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2845,
+			"score": 0.04494968
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4411,
+			"score": 0.04108683
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 7678,
+			"score": 0.04096419
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4862,
+			"score": 0.03863759
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 587,
+			"score": 0.03521085
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5464,
+			"score": 0.03471168
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		}
+	],
+	"sa se si so su": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2903,
+			"score": 0.04586605
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 7039,
+			"score": 0.04471733
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 696,
+			"score": 0.04174915
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5249,
+			"score": 0.04171302
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 7648,
+			"score": 0.04080413
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4303,
+			"score": 0.04008085
+		}
+	],
+	"sn so sp sq sr ss st su sv sw sx sy sz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 6734,
+			"score": 0.04277973
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5010,
+			"score": 0.03981373
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 517,
+			"score": 0.03101194
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3275,
+			"score": 0.03050541
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5211,
+			"score": 0.02780208
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1745,
+			"score": 0.02757019
+		}
+	],
+	"t": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 20803,
+			"score": 0.16531835
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 2531,
+			"score": 0.15182053
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 23798,
+			"score": 0.15118384
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 9431,
+			"score": 0.14900542
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 15385,
+			"score": 0.14330558
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 25519,
+			"score": 0.13615071
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		}
+	],
+	"ta tb tc td te tf tg th ti tj tk tl tm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 16957,
+			"score": 0.13475476
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 18757,
+			"score": 0.11915940
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1949,
+			"score": 0.11690960
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 7059,
+			"score": 0.11152892
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 11403,
+			"score": 0.10621472
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 18056,
+			"score": 0.09633360
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		}
+	],
+	"ta te ti to tu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 8331,
+			"score": 0.04444812
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2531,
+			"score": 0.03998862
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4159,
+			"score": 0.03873954
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 618,
+			"score": 0.03707036
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 4157,
+			"score": 0.03303506
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 4942,
+			"score": 0.03139552
+		}
+	],
+	"tn to tp tq tr ts tt tu tv tw tx ty tz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 7461,
+			"score": 0.03980644
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2372,
+			"score": 0.03747650
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 3980,
+			"score": 0.03707223
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 582,
+			"score": 0.03491092
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5041,
+			"score": 0.03202445
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3845,
+			"score": 0.03055564
+		}
+	],
+	"u": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1190,
+			"score": 0.01880145
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 305,
+			"score": 0.01829524
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1545,
+			"score": 0.01439110
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2334,
+			"score": 0.01245252
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1389,
+			"score": 0.01103818
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1482,
+			"score": 0.00941484
+		}
+	],
+	"u v": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1822,
+			"score": 0.02878675
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 453,
+			"score": 0.02717294
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 3524,
+			"score": 0.02238725
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2330,
+			"score": 0.02170309
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2197,
+			"score": 0.01745923
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3169,
+			"score": 0.01690747
+		}
+	],
+	"u v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 10598,
+			"score": 0.09871644
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 17819,
+			"score": 0.09506915
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 6003,
+			"score": 0.09484461
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1422,
+			"score": 0.08529782
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9521,
+			"score": 0.07566197
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 11594,
+			"score": 0.07365432
+		}
+	],
+	"u v w x y": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 13087,
+			"score": 0.12190056
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 21309,
+			"score": 0.11368923
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 6810,
+			"score": 0.10759484
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 12293,
+			"score": 0.09769064
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1567,
+			"score": 0.09399556
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 12119,
+			"score": 0.07698954
+		}
+	],
+	"ua ub uc ud ue uf ug uh ui uj uk ul um": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 34,
+			"score": 0.00021600
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 12,
+			"score": 0.00011178
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 20,
+			"score": 0.00010671
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 6,
+			"score": 0.00009480
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 7,
+			"score": 0.00005563
+		}
+	],
+	"ua ue ui uo uu": [
+	],
+	"un uo up uq ur us ut uu uv uw ux uy uz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1182,
+			"score": 0.01867505
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 305,
+			"score": 0.01829524
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1532,
+			"score": 0.01427001
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 2314,
+			"score": 0.01234581
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1381,
+			"score": 0.01097460
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1448,
+			"score": 0.00919885
+		}
+	],
+	"v": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2042,
+			"score": 0.01297241
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 632,
+			"score": 0.00998531
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 148,
+			"score": 0.00887769
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 785,
+			"score": 0.00731198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 808,
+			"score": 0.00642106
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 835,
+			"score": 0.00445495
+		}
+	],
+	"v w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 9053,
+			"score": 0.08432534
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 15485,
+			"score": 0.08261663
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4813,
+			"score": 0.07604316
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1117,
+			"score": 0.06700258
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 8132,
+			"score": 0.06462380
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 10112,
+			"score": 0.06423948
+		}
+	],
+	"va vb vc vd ve vf vg vh vi vj vk vl vm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1994,
+			"score": 0.01266748
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 505,
+			"score": 0.00797877
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 123,
+			"score": 0.00737808
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 727,
+			"score": 0.00677174
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 592,
+			"score": 0.00470454
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 748,
+			"score": 0.00399078
+		}
+	],
+	"va ve vi vo vu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2040,
+			"score": 0.01295970
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 624,
+			"score": 0.00985891
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 143,
+			"score": 0.00857777
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 783,
+			"score": 0.00729335
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 805,
+			"score": 0.00639722
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 833,
+			"score": 0.00444428
+		}
+	],
+	"vn vo vp vq vr vs vt vu vv vw vx vy vz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 123,
+			"score": 0.00194334
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 213,
+			"score": 0.00169268
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 21,
+			"score": 0.00125967
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 57,
+			"score": 0.00053093
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 85,
+			"score": 0.00045350
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 46,
+			"score": 0.00029223
+		}
+	],
+	"w": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14569,
+			"score": 0.07772952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8262,
+			"score": 0.07695747
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4157,
+			"score": 0.06567867
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 968,
+			"score": 0.05806490
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 7274,
+			"score": 0.05780540
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8068,
+			"score": 0.05125436
+		}
+	],
+	"w x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 4,
+			"score": 0.09523810
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 14650,
+			"score": 0.07816168
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 8268,
+			"score": 0.07701336
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4181,
+			"score": 0.06605786
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 7324,
+			"score": 0.05820274
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 969,
+			"score": 0.05812489
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 8070,
+			"score": 0.05126707
+		}
+	],
+	"wa wb wc wd we wf wg wh wi wj wk wl wm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 7334,
+			"score": 0.06831349
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 12801,
+			"score": 0.06829677
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 3168,
+			"score": 0.05005293
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 6049,
+			"score": 0.04807050
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 7014,
+			"score": 0.04455851
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 630,
+			"score": 0.03779017
+		}
+	],
+	"wa we wi wo wu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 3,
+			"score": 0.07142857
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 10940,
+			"score": 0.05836783
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5800,
+			"score": 0.05402485
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 2808,
+			"score": 0.04436510
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 5369,
+			"score": 0.04266665
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 664,
+			"score": 0.03982964
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 5481,
+			"score": 0.03481968
+		}
+	],
+	"wn wo wp wq wr ws wt wu wv ww wx wy wz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/",
+			"count": 1,
+			"score": 0.02380952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 338,
+			"score": 0.02027473
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 984,
+			"score": 0.01554674
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 1225,
+			"score": 0.00973489
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 1768,
+			"score": 0.00943275
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 928,
+			"score": 0.00864398
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 1043,
+			"score": 0.00662597
+		}
+	],
+	"x": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 81,
+			"score": 0.00043216
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 50,
+			"score": 0.00039734
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 24,
+			"score": 0.00037919
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1,
+			"score": 0.00005998
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 6,
+			"score": 0.00005589
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 2,
+			"score": 0.00001271
+		}
+	],
+	"xa xb xc xd xe xf xg xh xi xj xk xl xm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 31,
+			"score": 0.00016539
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 7,
+			"score": 0.00011060
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 10,
+			"score": 0.00007947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1,
+			"score": 0.00005998
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4,
+			"score": 0.00003726
+		}
+	],
+	"xa xe xi xo xu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 7,
+			"score": 0.00011060
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 10,
+			"score": 0.00007947
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 1,
+			"score": 0.00005998
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 10,
+			"score": 0.00005335
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 4,
+			"score": 0.00003726
+		}
+	],
+	"xn xo xp xq xr xs xt xu xv xw xx xy xz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 38,
+			"score": 0.00030198
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 48,
+			"score": 0.00025609
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 1,
+			"score": 0.00001580
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 1,
+			"score": 0.00000931
+		}
+	],
+	"y": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2489,
+			"score": 0.02318411
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2772,
+			"score": 0.02202867
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3490,
+			"score": 0.01862009
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 807,
+			"score": 0.01275023
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 145,
+			"score": 0.00869774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 525,
+			"score": 0.00333522
+		}
+	],
+	"y z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2494,
+			"score": 0.02323069
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2781,
+			"score": 0.02210019
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3496,
+			"score": 0.01865210
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 818,
+			"score": 0.01292402
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 145,
+			"score": 0.00869774
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 598,
+			"score": 0.00379897
+		}
+	],
+	"ya yb yc yd ye yf yg yh yi yj yk yl ym": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 543,
+			"score": 0.00431514
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 365,
+			"score": 0.00339984
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 467,
+			"score": 0.00249157
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 345,
+			"score": 0.00219171
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 79,
+			"score": 0.00124816
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 20,
+			"score": 0.00119969
+		}
+	],
+	"ya ye yi yo yu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2489,
+			"score": 0.02318411
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2772,
+			"score": 0.02202867
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3490,
+			"score": 0.01862009
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 793,
+			"score": 0.01252903
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 144,
+			"score": 0.00863775
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 525,
+			"score": 0.00333522
+		}
+	],
+	"yn yo yp yq yr ys yt yu yv yw yx yy yz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 2124,
+			"score": 0.01978427
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 2229,
+			"score": 0.01771353
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 3023,
+			"score": 0.01612852
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 718,
+			"score": 0.01134407
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/37134-h/37134-h.htm",
+			"count": 125,
+			"score": 0.00749805
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 180,
+			"score": 0.00114350
+		}
+	],
+	"z": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 73,
+			"score": 0.00046375
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 11,
+			"score": 0.00017379
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9,
+			"score": 0.00007152
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5,
+			"score": 0.00004657
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 6,
+			"score": 0.00003201
+		}
+	],
+	"za zb zc zd ze zf zg zh zi zj zk zl zm": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 44,
+			"score": 0.00027952
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 4,
+			"score": 0.00006320
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5,
+			"score": 0.00004657
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5,
+			"score": 0.00002668
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 3,
+			"score": 0.00002384
+		}
+	],
+	"za ze zi zo zu": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 68,
+			"score": 0.00043199
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 7,
+			"score": 0.00011060
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 9,
+			"score": 0.00007152
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1661-h/1661-h.htm",
+			"count": 5,
+			"score": 0.00004657
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1400-h/1400-h.htm",
+			"count": 5,
+			"score": 0.00002668
+		}
+	],
+	"zn zo zp zq zr zs zt zu zv zw zx zy zz": [
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1228-h/1228-h.htm",
+			"count": 24,
+			"score": 0.00015247
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/22577-h/22577-h.htm",
+			"count": 5,
+			"score": 0.00007900
+		},
+		{
+			"where": "https://www.cs.usfca.edu/~cs212/guten/1322-h/1322-h.htm",
+			"count": 6,
+			"score": 0.00004768
+		}
+	]
+}
